@@ -20,63 +20,74 @@ draft: false
 
 Join our trainers as they walk you through the development & vulnerabilities of Drones, from an introduction of drone security to programming & hacking a drone. This workshop will provide you with the tools & methodologies to start development. Understanding of common security posture & what it takes to hack it.
  
-<b>Content:</b>
+<h2>Content:</h2>
+<ol>
+<li>Introduction to Drone Hacking</li>
+    <ul>
+    <li>Hardware Introduction</li>
+    <li>Software Introduction</li>
+    <li>Operational Courtesies / Polite Piloting</li>
+    <li>Safety & Rules and Laws</li>
+    <li>Case Study: Tello Learning</li>
+    <li>LAB 01: Setting Up Tello and Software</li>
+    </ul>
+<li>Core UAV Technology</li>
+    <ul>
+    <li>Core Hardware and Electronics</li>
+    <li>Sensors and Batteries</li>
+    <li>RF Communication and Protocols</li>
+    <li>LAB 02: Setting up and preparing OS for drone hacking</li>
+    </ul>
+<li>UAV Robotics as an ecosystem</li>
+    <ul>
+    <li>Autonomous vs. Autonomy</li>
+    <li>Ground Stations: PC/Linux/OSx</li>
+    <li>Use Case</li>
+    <li>LAB 03: Programming Drones</li>
+    </ul>
+<li>Wireless Recon</li>
+    <ul>
+    <li>Process Overview</li>
+    <li>Tools to use</li>
+    <li>Vulnerability Research</li>
+    <li>LAB 04: Wireless Recon</li>
+    </ul>
+<li>Drone Hacking</li>
+    <ul>
+    <li>Famous Drone “hacks” to date</li>
+    <li>Attack Vectors</li>
+    <li>LAB 05: Exploiting and Hijacking a Drone</li>
+    </ul>
+</ol>
 
-1.  Introduction to Drone Hacking
-    Hardware Introduction
-    Software Introduction
-    Operational Courtesies / Polite Piloting
-    Safety & Rules and Laws
-
-2.  Case Study: Tello Learning
-    LAB 01: Setting Up Tello and Software
-    Core UAV Technology
-    Core Hardware and Electronics
-    Sensors and Batteries
-    RF Communication and Protocols
-    LAB 02: Setting up and preparing OS for drone hacking
-
-3.  UAV Robotics as an ecosystem
-    Autonomous vs. Autonomy
-    Ground Stations: PC/Linux/OSx
-    Use Case
-    LAB 03: Programming Drones
-
-4.  Wireless Recon
-    Process Overview
-    Tools to use
-    Vulnerability Research
-    LAB 04: Wireless Recon
-
-5.  Drone Hacking
-    Famous Drone “hacks” to date
-    Attack Vectors
-    LAB 05: Exploiting and Hijacking a Drone
+<h2>Duration:</h2> 2 days
+  
  
-<b>Duration:</b> 2 days
- 
- 
- 
-<b>Requirements:</b>
-  Laptop with 6+GB of RAM
-  Internet Connectivity
+<h2>Requirements:</h2>
+    <ul>
+    <li>Laptop with 6+GB of RAM</li>
+    <li>Internet Connectivity</li>
+    </ul>
 
-<b>Prerequisites:</b>
-  Basic Knowledge of Python
-  Basic Knowledge of Hardware components
-  Open Mind
+<h2>Prerequisites:</h2>
+    <ul>
+    <li>Basic Knowledge of Python</li>
+    <li>Basic Knowledge of Hardware components</li>
+    <li>Open Mind</li>
+    </ul>
 
-<b>Key Takeaways:</b>
-  Writing your first drone code to control DJI Tello
-  Understanding of security concepts around drones
-  Approach towards exploiting drones
+<h2>Key Takeaways:</h2>
+    <ul>
+    <li>Writing your first drone code to control DJI Tello</li>
+    <li>Understanding of security concepts around drones</li>
+    <li>Approach towards exploiting drones</li>
+    </ul>
 
 
 <b>Note:</b> The Village will run till the time Hardware is there.
 
-<h2>About Trainer :</h2>
+<h2>Drone Hacking workshop sponsored by <b>SecureLayer7</b></h2>
 
-<b>Seedon D'Souza</b> (Security Researcher) Opensource Hardware.
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>
 -->
