@@ -6,7 +6,6 @@ menu:
 
 draft: false
 ---
-Coming Soon
 {{% hero %}}
 <!-- TODO: filter and search -->
 {{% /hero %}}
