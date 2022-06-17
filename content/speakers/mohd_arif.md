@@ -4,7 +4,7 @@ name: Mohd Arif
 id: 03
 feature: true
 company: 'Paytm'
-city: 'India'
+city: 'Bangalore - India'
 photoURL: /images/speakers/mohd_arif.jpg
 socials:
   - icon: twitter

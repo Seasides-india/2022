@@ -3,8 +3,8 @@ key: seedon_dsouza
 name: Seedon Dsouza
 id: 03
 feature: true
-company: 'NASIT'
-city: 'India'
+company: 'NSEIT'
+city: 'Bangalore - India'
 photoURL: /images/speakers/seedon_dsouza.jpg
 socials:
   - icon: twitter

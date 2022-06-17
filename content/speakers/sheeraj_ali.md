@@ -4,7 +4,7 @@ name: Sheeraj Ali
 id: 03
 feature: true
 company: 'Hack The Box'
-city: 'Bhopal'
+city: 'Bhopal - India'
 photoURL: /images/speakers/sheeraj_ali.jpg
 socials:
   - icon: twitter
