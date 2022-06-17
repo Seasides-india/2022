@@ -60,9 +60,11 @@ Join our trainers as they walk you through the development & vulnerabilities of 
         </ul>
     </ol>
 
-<h2>Duration:</h2> 2 days
-  
- 
+<h2>Duration:</h2> 
+<ul>
+    <li>2 days</li>
+</ul>
+<br><br> 
 <h2>Requirements:</h2>
     <ul>
     <li>Laptop with 6+GB of RAM</li>
@@ -85,7 +87,7 @@ Join our trainers as they walk you through the development & vulnerabilities of 
 
 
 <b>Note:</b> The Village will run till the time Hardware is there.
-
+<br>
 <h2>Drone Hacking workshop sponsored by <b>SecureLayer7</b></h2>
 
 <!--
