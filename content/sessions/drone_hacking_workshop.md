@@ -19,36 +19,36 @@ Build your own hacking gadgets
 Join our trainers as they walk you through the development & vulnerabilities of Drones, from an introduction of drone security to programming & hacking a drone. This workshop will provide you with the tools & methodologies to start development. Understanding of common security posture & what it takes to hack it.
  
 Content:
-1.  Introduction to Drone Hacking
-    a.  Hardware Introduction
-    b.  Software Introduction
-    c.  Operational Courtesies / Polite Piloting
-    d.  Safety & Rules and Laws
-    e.  Case Study: Tello Learning
-    f.  LAB 01: Setting Up Tello and Software
+1.  Introduction to Drone Hacking</b>
+    a.  Hardware Introduction</b>
+    b.  Software Introduction</b>
+    c.  Operational Courtesies / Polite Piloting</b>
+    d.  Safety & Rules and Laws</b>
+    e.  Case Study: Tello Learning</b>
+    f.  LAB 01: Setting Up Tello and Software</b>
 
-2.  Core UAV Technology
-    a.  Core Hardware and Electronics
-    b.  Sensors and Batteries
-    c.  RF Communication and Protocols
-    d.  LAB 02: Setting up and preparing OS for drone hacking
+2.  Core UAV Technology</b>
+    a.  Core Hardware and Electronics</b>
+    b.  Sensors and Batteries</b>
+    c.  RF Communication and Protocols</b>
+    d.  LAB 02: Setting up and preparing OS for drone hacking</b>
 
-3.  UAV Robotics as an ecosystem
-    a.  Autonomous vs. Autonomy
-    b.  Ground Stations: PC/Linux/OSx
-    c.  Use Case
-    e.  LAB 03: Programming Drones
+3.  UAV Robotics as an ecosystem</b>
+    a.  Autonomous vs. Autonomy</b>
+    b.  Ground Stations: PC/Linux/OSx</b>
+    c.  Use Case</b>
+    e.  LAB 03: Programming Drones</b>
 
-4.  Wireless Recon
-    a.  Process Overview
-    b.  Tools to use
-    c.  Vulnerability Research
-    d.  LAB 04: Wireless Recon
+4.  Wireless Recon</b>
+    a.  Process Overview</b>
+    b.  Tools to use</b>
+    c.  Vulnerability Research</b>
+    d.  LAB 04: Wireless Recon</b>
 
-5.  Drone Hacking
-    a.  Famous Drone “hacks” to date
-    b.  Attack Vectors
-    c.  LAB 05: Exploiting and Hijacking a Drone
+5.  Drone Hacking</b>
+    a.  Famous Drone “hacks” to date</b>
+    b.  Attack Vectors</b>
+    c.  LAB 05: Exploiting and Hijacking a Drone</b>
 
 <h2>Duration:</h2> 2 days
   
