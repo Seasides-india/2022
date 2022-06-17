@@ -4,7 +4,7 @@ name: Seedon Dsouza
 id: 03
 feature: true
 company: 'NSEIT'
-city: 'Bangalore - India'
+city: 'Bengaluru - India'
 photoURL: /images/speakers/seedon_dsouza.jpg
 socials:
   - icon: twitter
