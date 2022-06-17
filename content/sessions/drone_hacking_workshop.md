@@ -18,7 +18,15 @@ Build your own hacking gadgets
 
 Join our trainers as they walk you through the development & vulnerabilities of Drones, from an introduction of drone security to programming & hacking a drone. This workshop will provide you with the tools & methodologies to start development. Understanding of common security posture & what it takes to hack it.
  
-Content:
+### Content:
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+
 1.  Introduction to Drone Hacking</br>
     a.  Hardware Introduction</br>
     b.  Software Introduction</br>
@@ -76,7 +84,7 @@ Content:
 
 <b>Note:</b> The Village will run till the time Hardware is there.
 
-<h2>Drone Hacking workshop sponsored by <b>SecureLayer7</b></h2>
+Drone Hacking workshop sponsored by **SecureLayer7**
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>
