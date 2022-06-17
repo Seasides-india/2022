@@ -62,7 +62,7 @@ Join our trainers as they walk you through the development & vulnerabilities of 
 
 <h2>Duration:</h2> 
 <ul>
-    <li>2 days</li>
+    <li>1 days</li>
 </ul>
 <br>
 <h2>Requirements:</h2>
@@ -73,8 +73,7 @@ Join our trainers as they walk you through the development & vulnerabilities of 
 
 <h2>Prerequisites:</h2>
     <ul>
-    <li>Basic Knowledge of Python</li>
-    <li>Basic Knowledge of Hardware components</li>
+    <li>Basic Knowledge of Python Programming</li>
     <li>Open Mind</li>
     </ul>
 
@@ -85,7 +84,8 @@ Join our trainers as they walk you through the development & vulnerabilities of 
     <li>Approach towards exploiting drones</li>
     </ul>
 
-
+<b>Note:</b> Limited DJI Tello development platform will be provided during the workshop
+<br>
 <b>Note:</b> The Village will run till the time Hardware is there.
 <br>
 ### Drone Hacking workshop sponsored by <b>SecureLayer7</b>
