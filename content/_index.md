@@ -9,7 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/old-back-0.jpg" imgLabel="Seasides 2020" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="Seasides 2020" %}}
 
 ## August 19,20 - 2022
 ### International Centre Goa
