@@ -1,6 +1,6 @@
 ---
 key: appsecengineer
-title: APPSEC Engineer
+title: AppSecEngineer
 category: silver
 order: 104
 logo: /images/partners/appsecengineer.png
