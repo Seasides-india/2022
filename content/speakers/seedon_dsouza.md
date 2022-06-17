@@ -14,4 +14,4 @@ socials:
     link: 'https://github.com/seedon198/'
     name: Seedon
 ---
-<b>Seedon D’Souza</b> is a hardware hacker. He builds gadgets, he has experience building control systems and autopilots for drones and UGV’s. Kali on wheels is a UGV that runs kali linux @SeedonD
+**Seedon D’Souza** is a security consultant at NSEIT Ltd. He has been a speaker at BSides Ahmedabad 2019, Seasides 2020 & BSides Ahmedabad 2021 speaking on topics ranging from HAM radios to lock picking. If you like badges, rubber duckies or anything that has a battery in it - He is your Guy!  @SeedonD
