@@ -35,7 +35,7 @@ We aim to provide free of cost premium workshops and talks to all the participan
 {{% /home-info %}}
 
 
-{{< youtube-section link="sTkZF9wxGC8" title="Watch 2020 into" class="" >}}
+{{< youtube-section link="sTkZF9wxGC8" title="Watch 2020 intro" class="" >}}
 
 {{% home-speakers %}}
 <!--{{< button-link label="Scholarship Opportunity"
