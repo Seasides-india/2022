@@ -11,12 +11,10 @@ speakers:
   - seedon_dsouza
   - mohd_arif
 
-videoId: 
-<!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-Build your own hacking gadgets
 
+Build your own hacking gadgets
 
 Join our trainers as they walk you through the development & vulnerabilities of Drones, from an introduction of drone security to programming & hacking a drone. This workshop will provide you with the tools & methodologies to start development. Understanding of common security posture & what it takes to hack it.
  
