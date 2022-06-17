@@ -12,7 +12,7 @@ menu:
 {{% jumbo img="/images/backgrounds/old-back-0.jpg" imgLabel="Seasides 2020" %}}
 
 ## August 19,20 - 2022
-### Location - Coming Soon
+### International Centre Goa
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -35,7 +35,7 @@ We aim to provide free of cost premium workshops and talks to all the participan
 {{% /home-info %}}
 
 
-{{< youtube-section link="IboLBQTsPCA" title="Watch 2020 into" class="" >}}
+{{< youtube-section link="sTkZF9wxGC8" title="Watch 2020 into" class="" >}}
 
 {{% home-speakers %}}
 <!--{{< button-link label="Scholarship Opportunity"
@@ -110,15 +110,15 @@ We aim to provide free of cost premium workshops and talks to all the participan
 
 {{% home-location
     image="/images/map.jpg"
-    address=""
+    address="International Centre Goa"
     latitude="15.4585529"
     longitude="73.8184071" %}}
 
 ## The venue
 
-### Coming Soon
+### International Centre Goa
 
-<!--Goa's leading ideational institute & preferred venue for meetings, seminars, events & conferences, with fully-equipped facilities at Dona Paula. -->
+Goa's leading ideational institute & preferred venue for meetings, seminars, events & conferences, with fully-equipped facilities at Dona Paula.
 
 {{% /home-location %}}
 
