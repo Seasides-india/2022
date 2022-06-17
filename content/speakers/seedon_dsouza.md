@@ -3,7 +3,7 @@ key: seedon_dsouza
 name: Seedon Dsouza
 id: 03
 feature: true
-company: 'Security Enthusiast'
+company: 'NASIT'
 city: 'India'
 photoURL: /images/speakers/seedon_dsouza.jpg
 socials:

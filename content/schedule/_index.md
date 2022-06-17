@@ -7,7 +7,6 @@ menu:
 horizontal: false
 
 ---
-Coming Soon
 {{% hero %}}
 
 <!--<a class="btn primary btn-lg" href="/schedule/schedule.ics">
