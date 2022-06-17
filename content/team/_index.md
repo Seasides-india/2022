@@ -11,7 +11,7 @@ draft: false
 
 {{% hero %}}
 
-OWASP Seasides is a community-driven conference, and administratively supported by OWASP.
+Seasides is a community-driven conference.
 
 To make all this possible, an awesome team of volunteers is working behind the scenes.
 
