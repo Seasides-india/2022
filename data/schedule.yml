@@ -63,11 +63,11 @@
     - room: room2
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: mobile_appsec_android
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: mobile_appsec_android
     - room: room3
       slots:
         - slot: slot-3
