@@ -59,7 +59,7 @@ According to the feedback we have collected from our previous trainings, student
 
 <h2>REQUIREMENTS</h2>
 <ul>
-<li>Laptop with minimum 30 GB Hard Disk Space & 8 GB RAM with administrative privileges </li>
+<li>Laptop with minimum 30 GB Hard Disk Space & 8 GB RAM with administrative privileges (Linux preferred) </li>
 <li>Updated Virtual-box installed</li>
 <li>2 Functional USB Ports</li>
 </ul>
