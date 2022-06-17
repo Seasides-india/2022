@@ -12,7 +12,7 @@
     - room: room2
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: decoding_the_art_of_ted_teaming
         - slot: lunch
           talk: __lunch
         - slot: slot-2
