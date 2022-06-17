@@ -1,0 +1,108 @@
+- day: '2022-08-19'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room2
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room3
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room4
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room5
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room6
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated         
+- day: '2022-08-20'
+  start: '09:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room2
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room3
+      slots:
+        - slot: slot-3
+          talk: To Be Updated
+        - slot: slot-4
+          talk: To Be Updated
+        - slot: slot-5
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-7
+          talk: To Be Updated
+        - slot: slot-8          
+          talk: To Be Updated
+    - room: room4
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room5
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated
+    - room: room6
+      slots:
+        - slot: slot-1
+          talk: To Be Updated
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: To Be Updated          

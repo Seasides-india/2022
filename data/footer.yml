@@ -1,0 +1,40 @@
+share:
+  - name: facebook
+    url: https://www.facebook.com/seasidesconference
+  - name: twitter
+    url: https://twitter.com/seasides_conf
+
+follow:
+  - name: facebook
+    url: https://www.facebook.com/seasidesconference
+  - name: twitter
+    url: https://twitter.com/seasides_conf
+  - name: linkedin
+    url: https://www.linkedin.com/company/seasides/
+  - name: youtube
+    url: https://www.youtube.com/channel/UCG_AVhNAoFji_XFnfZnpasg
+
+content:
+  - title: footer_about
+    links:
+      - name: About Seasides
+        url: /about_seasides/
+        newTab: false
+      - nameKey: footer_coc
+        url: /code-of-conduct/
+        newTab: false
+
+  - title: footer_previous_edition
+    links:
+      - name: Seasides 2019
+        url: https://2019.owaspseasides.com/
+        newTab: true
+      - name: Seasides 2020
+        url: https://owaspseasides.com/
+        newTab: true
+
+  - title: footer_become_partners
+    links:
+      - nameKey: footer_become_partners_label
+        url: /sponsorships/
+        newTab: false
