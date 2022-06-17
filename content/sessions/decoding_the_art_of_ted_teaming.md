@@ -18,10 +18,9 @@ draft: false
 
 One can acknowledge the fact after going through the APT threat actors’ movements on the attack surface that nowa1s attackers use the more sophisticated and complex techniques to accomplish their motive. Whereas most of the organization are not pretty much aware of the techniques used by the threat actor to accomplish their motive which leaves the defensive mechanism of the organization in a very fragile position. The fragility of the defense makes easier for the threat actors to break or bypass the security perimeter of the organization which lead to harsh consequences. In order to avoid these consequences, the organization adopts the concept of depicting the art of the threat actors on the attack surface to know the security loopholes before the attacker exploit it to accomplish its motive and this particular routine or exercise of depicting the art of the threat actor on the attack surface is Red Teaming. This Workshop will strictly focus on modern techniques, tactics and procedures for bypassing the strict security controls on the organization infrastructure. All these attacks will be simulated and demonstrated on lab architecture which will be a real-world depicting infrastructure made for the purpose demonstration. As most of the fortune companies use Active Directory in their organization to manage the organization’s entities, Active Directory is deployed in the lab architecture. To make this workshop hands-on for real, all the attendees will be provided with dedicated VPN to access the pre-configured lab where they will perform all the attacks in a threat actor way. The Goal of the workshop is not to attack but to attack with the stealth nature so that the simulated attack can bypass the security control which is deployed. The defensive tactics will be discussed respectively for every security loophole that has been exploited during the demonstration.  
 
-<h2>TARGET AUDIENCE</h2>
-<ul>
-<li>Red, Blue, & Purple Team Members.</li>
-<li>Penetration Tester.</li>
+TARGET AUDIENCE
+1. Red, Blue, & Purple Team Members.</b>
+2. Penetration Tester.</b>
 <li>Cyber Security Enthusiast.</li>
 <li>Anyone who wants to upscale their Red Teaming Skills.</li>
 <li>Administrators </li>
