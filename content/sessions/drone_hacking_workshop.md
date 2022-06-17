@@ -10,6 +10,7 @@ level: beginner
 speakers:
   - seedon_dsouza
   - mohd_arif
+  - sheeraj_ali
 
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
