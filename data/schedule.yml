@@ -4,11 +4,11 @@
     - room: room1
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: drone_hacking_workshop
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: drone_hacking_workshop
     - room: room2
       slots:
         - slot: slot-1
@@ -55,11 +55,11 @@
     - room: room1
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: drone_hacking_workshop
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: drone_hacking_workshop
     - room: room2
       slots:
         - slot: slot-1
