@@ -27,13 +27,11 @@ menu:
 
 
 {{% home-info class="primary" %}}
-## What is Seasides?
-
-Welcome to the Annual Seaside InfoSec Conference 2022
+## Welcome to the Annual Seaside InfoSec Conference 2022
     
 To stay ahead of the security curve, you must constantly be learning. Since malicious threats are becoming more sophisticated, it is crucial to be up to date with security knowledge. One of the efficient ways to expand your knowledge in the ever-evolving cybersecurity industry is by attending cybersecurity conferences.  You hear from the industry experts and diversify your knowledge regarding the latest technology, best practices and network.
 
-Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August bringing you the opportunity to get an insight into the cyber security world. Having a community-driven framework, we aim to provide free-of-charge premium workshops. We make sure to offer a chance to individuals to learn and connect with industry experts from around the globe.<br/>
+Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August bringing you the opportunity to get an insight into the cyber security world. Having a community-driven framework, we aim to provide free-of-charge premium workshops and provide a feel of international conferences like Blackhat/Defcon. We make sure to offer a chance to individuals to learn and connect with industry experts from around the globe.<br/>
 {{% /home-info %}}
 
 
