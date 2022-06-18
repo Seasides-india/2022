@@ -29,11 +29,11 @@ menu:
 {{% home-info class="primary" %}}
 ## What is Seasides?
 
-Welcome to the Annual SeaSides InfoSec event.
+Welcome to the Annual Seaside InfoSec Conference 2022
+    
+To stay ahead of the security curve, you must constantly be learning. Since malicious threats are becoming more sophisticated, it is crucial to be up to date with security knowledge. One of the efficient ways to expand your knowledge in the ever-evolving cybersecurity industry is by attending cybersecurity conferences.  You hear from the industry experts and diversify your knowledge regarding the latest technology, best practices and network.
 
-The only motive of this event is to promote knowledge sharing and provide quality trainings to youngsters in India and give them a feel of international conferences like Blackhat/Defcon. This year we are planning to do a lot of work on hardware hacking and drone programming(10 drones will be give to the attendees for the training purpose). Also, We will continue to have sessions on web,mobile and blockchain security etc.
-
-Right from training, food, coffee/snack to parties everything will continue to be free and open to all. We are able to run this conference only because of generous support from our sponsors.  So please thank our sponsors on social media. This event will not exist without thier support<br/>
+Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August bringing you the opportunity to get an insight into the cyber security world. Having a community-driven framework, we aim to provide free-of-charge premium workshops. We make sure to offer a chance to individuals to learn and connect with industry experts from around the globe.<br/>
 {{% /home-info %}}
 
 
