@@ -70,15 +70,15 @@
           talk: mobile_appsec_android
     - room: room3
       slots:
-        - slot: slot-1
+        - slot: slot-3
           talk: To Be Updated
-        - slot: slot-2
+        - slot: slot-4
           talk: To Be Updated
         - slot: lunch
           talk: __lunch
-        - slot: slot-1
+        - slot: slot-5
           talk: To Be Updated
-        - slot: slot-2          
+        - slot: slot-6          
           talk: To Be Updated
     - room: room4
       slots:
