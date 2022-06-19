@@ -13,7 +13,7 @@ draft: false
 
 **Seasides Sponsorship Kit** 
 
-AUGUST 19-20, 2022
+![](/august.jpg)
 
 **Proposal Kit**
 
