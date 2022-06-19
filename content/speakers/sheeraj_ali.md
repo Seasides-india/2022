@@ -9,10 +9,10 @@ photoURL: /images/speakers/sheeraj_ali.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/BeingSheerazAli'
-    name: Seedon DSouza
+    name: Sheeraj Ali
   - icon: linkedin
     link: 'https://www.linkedin.com/in/beingsheerazali/'
-    name: Seedon
+    name: Sheeraj Ali
 ---
 **Sheeraj** is a Content Engineer at Hack The Box. His main role is to create machines, labs and test them on hack the box including pro-labs and weekly releases
 
