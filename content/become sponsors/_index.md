@@ -71,7 +71,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
 
 <ol>
   <li>**$5,000/USD – Diamond**</li><br>
-  **Benefits**
+  <b>Benefits</b>
   <ul>
   <li>Logo printed on the badge and lead logo placed on sponsorship page as Diamond sponsors</li>
   <li>LinkedIn and Twitter Shout Outs featuring your brand/Logo and during Seasides and periodic posts.</li>
@@ -81,7 +81,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Periodic tweets thanking the sponsors</li>
   </ul>
   <li>**$3,000/USD – Platinum**</li><br>
-  **Benefits**
+  <b>Benefits</b>
   <ul>
   <li>Logo placed on sponsorship page as Platinum sponsors</li>
   <li>LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides and periodic posts</li>
