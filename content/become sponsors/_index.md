@@ -70,7 +70,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
 **Event Sponsorships:**
 
 <ol>
-  <li>**$5,000/USD – Diamond**</li><br>
+  <li><b>$5,000/USD – Diamond</b></li><br>
   <b>Benefits</b>
   <ul>
   <li>Logo printed on the badge and lead logo placed on sponsorship page as Diamond sponsors</li>
@@ -80,7 +80,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Acknowledgement/Thank You in Seasides materials developed for the conference.</li>
   <li>Periodic tweets thanking the sponsors</li>
   </ul>
-  <li>**$3,000/USD – Platinum**</li><br>
+  <li><b>$3,000/USD – Platinum</b></li><br>
   <b>Benefits</b>
   <ul>
   <li>Logo placed on sponsorship page as Platinum sponsors</li>
@@ -89,24 +89,24 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor</li>
   <li>Periodic tweets thanking the sponsors</li>
   </ul>
-  <li>**$2,000/USD – Gold**</li><br>
-  **Benefits**
+  <li><b>$2,000/USD – Gold</b></li><br>
+  <b>Benefits</b>
   <ul>
   <li>Company logo featured sponsorship page as Gold sponsors</li>
   <li>Logo printed on all promotional materials (standees) which will be displayed at event venue</li>
   <li>LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides event</li>
   <li>Periodic tweets thanking the sponsors (can discard - repetitive)</li>
   </ul>
-  <li>**$1000/USD – Food and Beverage sponsors at party**</li><br>
-  **Benefits**<br>
+  <li><b>$1000/USD – Food and Beverage sponsors at party</b></li><br>
+  <b>Benefits</b>
   <ul>
   <li>Credit as Food and Beverage sponsors for each day, announced at the venue</li>
   <li>Company logo featured on sponsors page</li>
   <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
   <li>Sponsor recognition and acknowledgement featured at the venue</li>
   </ul>
-  <li>**$1000 – Silver**</li><br>
-  **Benefits**<br>
+  <li><b>$1000 – Silver</b></li><br>
+  <b>Benefits</b>
   <ul>
   <li>Credit as Evening snacks sponsors, announced at the venue</li>
   <li>Company logo featured on Seasides' Sponsors page</li>
@@ -114,15 +114,15 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Sponsor recognition and acknowledgement at the venue</li>
   </ul>
   <li>**$500 – Bronze**</li><br>
-  **Benefits**<br>
+  <b>Benefits</b>
   <ul>
   <li>Company logo featured on Seasides' Sponsors page</li>
   <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
   <li>Sponsor recognition and acknowledgement at the venue</li>
   </ul>
-  <li>**Custom Sponsorships**</li><br>
+  <li><b>Custom Sponsorships</b></li><br>
   Seasides encourages participation from a wide range of organisations. If you have an idea on a custom sponsorship, please let us know. We’ll do our best to facilitate a way for you to get involved. 
-  <li>**Supporters:**</li><br>
+  <li><b>Supporters</b></li><br>
   If you are an organisation which supports any aspect of information security and are willing to promote Seasides by tweeting or promoting it on social media, then we can add your logo as supporters on our supporters’ page. This is free of cost.
 
   Sponsoring enables you to engage in conversation, interact with attendees, and connect you with attendees of interest to you and your business. The organizers hope your participation will enable another great year for the Seasides.  
@@ -130,6 +130,10 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   All financials are handled by Seasides Technology. No refunds can be provided once the agreement  is  signed  and  the  amount  is  received.  If  for  any  reason  the  event  is cancelled/rescheduled, we will use the sponsorship amount in the next event we organise with the same benefits agreed upon. All sponsorships must be paid in full prior to the start of the event in order to participate. 
 </ol>
 
-**To sign up for sponsorship, please send an email to prashant.kv@seasidestech.com and parveen@seasidestech.com**
+**To sign up for sponsorship, please send an email to:
+<ol>
+  <li>prashant.kv@seasidestech.com</li>
+  <li>parveen@seasidestech.com</li>
+</ol>
 
 {{% /home-info %}}
