@@ -20,7 +20,7 @@ AUGUST 19-20, 2022
 <ol>
   <li>prashant.kv@seasidestech.com</li>
   <li>parveen@seasidestech.com</li>
-  <li>www.seasides.net/li>
+  <li>www.seasides.net</li>
 </ol>
 
 
@@ -34,7 +34,7 @@ Sponsorship  is  completely  independent  of  speaking  slots.  Seasides  does  
 
 We target the industry professionals, security researchers and students looking to augment their  current  security  skill  set  with  that  of  the  advancements  in  cybersecurity.  We recognize the value in engaging a smaller audience to develop connections and learn. Apart from building one’s technical skills, our conference will provide an avenue for professional networking, career guidance and build relationships.
 
-**ighlights of events planned for Seasides 2022:**
+**Highlights of events planned for Seasides 2022:**
 
 - Hardware oriented sessions like Drone Programming(All hardware devices will be provided free of cost) 
 
@@ -48,10 +48,12 @@ We have a great reach and engagement on posts on our different social media hand
 **Instagram:**   1000+ followers (www.instagram.cim/seasides\_conf) <br> 
 
 **Benefits of Supporting Us**
-- Prospective new hires 
-- Getting involved with a close knit community 
-- Creating brand recognition and awareness towards your organization 
-- A gesture of goodwill towards the community 
+<ul>
+  <li>Prospective new hires</li>
+  <li>Getting involved with a close knit community</li>
+  <li>Creating brand recognition and awareness towards your organization</li>
+  <li>A gesture of goodwill towards the community</li>
+</ul>
 
 **Reach Your Target Audience:**
 
@@ -67,59 +69,66 @@ Depending on the level of sponsorship, you may recognize your brand placement at
 
 **Event Sponsorships:**
 
-1. $5,000/USD – Diamond : (1) **Benefits**
-1. Logo printed on the badge and lead logo placed on sponsorship page as Diamond sponsors
-1. LinkedIn and Twitter Shout Outs featuring your brand/Logo and during Seasides and periodic posts.
-1. Logo printed on all promotional materials (standees) which will be displayed at event venues
-1. Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor
-1. Acknowledgement/Thank You in Seasides materials developed for the conference.
-1. Periodic tweets thanking the sponsors
-2. $3,000/USD – Platinum : (2)
+<ol>
+  <li>**$5,000/USD – Diamond**</li><br>
+  **Benefits**
+  <ul>
+  <li>Logo printed on the badge and lead logo placed on sponsorship page as Diamond sponsors</li>
+  <li>LinkedIn and Twitter Shout Outs featuring your brand/Logo and during Seasides and periodic posts.</li>
+  <li>Logo printed on all promotional materials (standees) which will be displayed at event venues</li>
+  <li>Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor</li>
+  <li>Acknowledgement/Thank You in Seasides materials developed for the conference.</li>
+  <li>Periodic tweets thanking the sponsors</li>
+  </ul>
+  <li>**$3,000/USD – Platinum**</li><br>
+  **Benefits**
+  <ul>
+  <li>Logo placed on sponsorship page as Platinum sponsors</li>
+  <li>LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides and periodic posts</li>
+  <li>Logo printed on all promotional materials (standees) which will be displayed at event venues</li>
+  <li>Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor</li>
+  <li>Periodic tweets thanking the sponsors</li>
+  </ul>
+  <li>**$2,000/USD – Gold**</li><br>
+  **Benefits**
+  <ul>
+  <li>Company logo featured sponsorship page as Gold sponsors</li>
+  <li>Logo printed on all promotional materials (standees) which will be displayed at event venue</li>
+  <li>LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides event</li>
+  <li>Periodic tweets thanking the sponsors (can discard - repetitive)</li>
+  </ul>
+  <li>**$1000/USD – Food and Beverage sponsors at party**</li><br>
+  **Benefits**<br>
+  <ul>
+  <li>Credit as Food and Beverage sponsors for each day, announced at the venue</li>
+  <li>Company logo featured on sponsors page</li>
+  <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
+  <li>Sponsor recognition and acknowledgement featured at the venue</li>
+  </ul>
+  <li>**$1000 – Silver**</li><br>
+  **Benefits**<br>
+  <ul>
+  <li>Credit as Evening snacks sponsors, announced at the venue</li>
+  <li>Company logo featured on Seasides' Sponsors page</li>
+  <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
+  <li>Sponsor recognition and acknowledgement at the venue</li>
+  </ul>
+  <li>**$500 – Bronze**</li><br>
+  **Benefits**<br>
+  <ul>
+  <li>Company logo featured on Seasides' Sponsors page</li>
+  <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
+  <li>Sponsor recognition and acknowledgement at the venue</li>
+  </ul>
+  <li>**Custom Sponsorships**</li><br>
+  Seasides encourages participation from a wide range of organisations. If you have an idea on a custom sponsorship, please let us know. We’ll do our best to facilitate a way for you to get involved. 
+  <li>**Supporters:**</li><br>
+  If you are an organisation which supports any aspect of information security and are willing to promote Seasides by tweeting or promoting it on social media, then we can add your logo as supporters on our supporters’ page. This is free of cost.
 
-**Benefits**
+  Sponsoring enables you to engage in conversation, interact with attendees, and connect you with attendees of interest to you and your business. The organizers hope your participation will enable another great year for the Seasides.  
 
-1. Logo placed on sponsorship page as Platinum sponsors
-1. LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides and periodic posts
-1. Logo printed on all promotional materials (standees) which will be displayed at event venues
-1. Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor
-1. Periodic tweets thanking the sponsors
-3. $2,000/USD – Gold : (3) **Benefits**
-1. Company logo featured sponsorship page as Gold sponsors
-1. Logo printed on all promotional materials (standees) which will be displayed at event venue
-1. LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides event.
-1. Periodic tweets thanking the sponsors (can discard - repetitive)
-4. $1000 – Food and Beverage sponsors at party : (2) **Benefits**
-1. Credit as Food and Beverage sponsors for each day, announced at the venue
-1. Company logo featured on sponsors page
-1. LinkedIn and Twitter shoutout featuring your brand/Logo
-1. Sponsor recognition and acknowledgement featured at the venue
-5. $1000 – Silver : (3)
-
-**Benefits**
-
-1. Credit as Evening snacks sponsors, announced at the venue
-1. Company logo featured on Seasides' Sponsors page
-1. LinkedIn and Twitter shoutout featuring your brand/Logo
-1. Sponsor recognition and acknowledgement at the venue
-6. $500 – Bronze : (3) 
-
-**Benefits**
-
-1. Company logo featured on Seasides' Sponsors page
-1. LinkedIn and Twitter shoutout featuring your brand/Logo
-1. Sponsor recognition and acknowledgement at the venue.
-
-**Custom Sponsorships:**
-
-Seasides encourages participation from a wide range of organisations. If you have an idea on a custom sponsorship, please let us know. We’ll do our best to facilitate a way for you to get involved. 
-
-**Supporters:**
-
-If you are an organisation which supports any aspect of information security and are willing to promote Seasides by tweeting or promoting it on social media, then we can add your logo as supporters on our supporters’ page. This is free of cost.
-
-Sponsoring enables you to engage in conversation, interact with attendees, and connect you with attendees of interest to you and your business. The organizers hope your participation will enable another great year for the Seasides.  
-
-All financials are handled by Seasides Technology. No refunds can be provided once the agreement  is  signed  and  the  amount  is  received.  If  for  any  reason  the  event  is cancelled/rescheduled, we will use the sponsorship amount in the next event we organise with the same benefits agreed upon. All sponsorships must be paid in full prior to the start of the event in order to participate. 
+  All financials are handled by Seasides Technology. No refunds can be provided once the agreement  is  signed  and  the  amount  is  received.  If  for  any  reason  the  event  is cancelled/rescheduled, we will use the sponsorship amount in the next event we organise with the same benefits agreed upon. All sponsorships must be paid in full prior to the start of the event in order to participate. 
+</ol>
 
 **To sign up for sponsorship, please send an email to prashant.kv@seasidestech.com and parveen@seasidestech.com**
 
