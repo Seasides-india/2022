@@ -11,7 +11,7 @@ draft: false
 {{% home-info %}}
 
 
-<h1>Seasides Sponsorship Kit</h1>
+<h1><b>Seasides Sponsorship Kit</b></h1>
 
 ![Seasides Sponsorship Kit!](/images/august.JPG)
 
