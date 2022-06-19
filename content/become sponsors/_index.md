@@ -130,7 +130,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   All financials are handled by Seasides Technology. No refunds can be provided once the agreement  is  signed  and  the  amount  is  received.  If  for  any  reason  the  event  is cancelled/rescheduled, we will use the sponsorship amount in the next event we organise with the same benefits agreed upon. All sponsorships must be paid in full prior to the start of the event in order to participate. 
 </ol>
 
-**To sign up for sponsorship, please send an email to:
+**To sign up for sponsorship, please send an email to:**
 <ol>
   <li>prashant.kv@seasidestech.com</li>
   <li>parveen@seasidestech.com</li>
