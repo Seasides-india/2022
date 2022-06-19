@@ -1,7 +1,7 @@
 ---
 title: Prashant KV
 type: core
-subtitle: 'Co-founder of Owasp Seasides'
+subtitle: 'Co-founder of Seasides'
 photo: prashant_kv.jpg
 socials:
   - link: 'https://twitter.com/goodbestguy'

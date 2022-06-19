@@ -1,7 +1,7 @@
 ---
 title: Parveen Yadav
 type: core
-subtitle: 'Co-founder of Owasp Seasides'
+subtitle: 'Co-founder of Seasides'
 photo: parveen_yadav.jpg
 socials:
   - link: 'https://twitter.com/parveen1015'
