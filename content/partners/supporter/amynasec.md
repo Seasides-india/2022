@@ -4,7 +4,7 @@ title: AMYNASEC
 category: supporter
 order: 111
 logo: /images/partners/logo-amynasec.png
-website: ''
+website: 'https://amynasec.io/'
 lang: en
 why: >-
   It appeared essential to us to bring our support to this « don’t miss » event.

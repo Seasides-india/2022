@@ -4,7 +4,7 @@ title: Appknox
 category: special supporter
 order: 110
 logo: /images/partners/logo-appknox.png
-website: ''
+website: 'https://www.appknox.com/'
 lang: en
 why: >-
   It appeared essential to us to bring our support to this « don’t miss » event.

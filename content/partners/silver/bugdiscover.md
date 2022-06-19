@@ -4,7 +4,7 @@ title: BugDiscover
 category: silver
 order: 104
 logo: /images/partners/logo-bugdiscover.png
-website: ''
+website: 'https://bugdiscover.com/'
 lang: en
 why: >-
   It appeared essential to us to bring our support to this « don’t miss » event.

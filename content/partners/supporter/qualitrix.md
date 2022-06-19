@@ -4,7 +4,7 @@ title: Qualitrix
 category: supporter
 order: 111
 logo: /images/partners/logo-qualitrix.png
-website: ''
+website: 'https://qualitrix.com/'
 lang: en
 why: >-
   It appeared essential to us to bring our support to this « don’t miss » event.
