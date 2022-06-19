@@ -16,6 +16,13 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+
+<b>Note:</b> Limited DJI Tello development platform will be provided during the workshop
+<br>
+<b>Note:</b> The Village will run till the time Hardware is there.
+<br>
+### Drone Hacking workshop sponsored by <b>SecureLayer7</b>
+
 Build your own hacking gadgets
 
 
@@ -85,11 +92,7 @@ Join our trainers as they walk you through the development & vulnerabilities of 
     <li>Approach towards exploiting drones</li>
     </ul>
 
-<b>Note:</b> Limited DJI Tello development platform will be provided during the workshop
-<br>
-<b>Note:</b> The Village will run till the time Hardware is there.
-<br>
-### Drone Hacking workshop sponsored by <b>SecureLayer7</b>
+
 <br>
 <b>Registration Link:</b> https://forms.gle/nxF5KzSSw2k5pDVe6
 
