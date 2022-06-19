@@ -21,7 +21,7 @@ draft: false
 <br>
 <b>Note:</b> The Village will run till the time Hardware is there.
 <br>
-### Drone Hacking workshop sponsored by <b>[SecureLayer7](https://securelayer7.net/){:target="_blank" rel="noopener"}</b>
+### Drone Hacking workshop sponsored by <b>[SecureLayer7](https://securelayer7.net/){:target="\_blank"}</b>
 
 Build your own hacking gadgets
 
