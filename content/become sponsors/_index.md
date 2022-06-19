@@ -1,5 +1,5 @@
 ---
-title: Become Sponsors
+title: Career Booster
 menu:
   main:
     weight: 50
