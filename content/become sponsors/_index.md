@@ -80,7 +80,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Acknowledgement/Thank You in Seasides materials developed for the conference.</li>
   <li>Periodic tweets thanking the sponsors</li>
   </ul><br>
-  <li><b>$3,000/USD – Platinum</b></li><br>
+  <li><b>$3,000/USD – Platinum</b></li>
   <b>Benefits</b>
   <ul>
   <li>Logo placed on sponsorship page as Platinum sponsors</li>
@@ -89,7 +89,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>Separate vendor standee can be kept at the venue. Standee to be provided by the sponsor</li>
   <li>Periodic tweets thanking the sponsors</li>
   </ul><br>
-  <li><b>$2,000/USD – Gold</b></li><br>
+  <li><b>$2,000/USD – Gold</b></li>
   <b>Benefits</b>
   <ul>
   <li>Company logo featured sponsorship page as Gold sponsors</li>
@@ -97,7 +97,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>LinkedIn and Twitter shoutouts featuring your brand/Logo and during Seasides event</li>
   <li>Periodic tweets thanking the sponsors (can discard - repetitive)</li>
   </ul><br>
-  <li><b>$1000/USD – Food and Beverage sponsors at party</b></li><br>
+  <li><b>$1000/USD – Food and Beverage sponsors at party</b></li>
   <b>Benefits</b>
   <ul>
   <li>Credit as Food and Beverage sponsors for each day, announced at the venue</li>
@@ -105,7 +105,7 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
   <li>Sponsor recognition and acknowledgement featured at the venue</li>
   </ul><br>
-  <li><b>$1000 – Silver</b></li><br>
+  <li><b>$1000 – Silver</b></li>
   <b>Benefits</b>
   <ul>
   <li>Credit as Evening snacks sponsors, announced at the venue</li>
@@ -113,16 +113,16 @@ Depending on the level of sponsorship, you may recognize your brand placement at
   <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
   <li>Sponsor recognition and acknowledgement at the venue</li>
   </ul><br>
-  <li><b>$500 – Bronze</b></li><br>
+  <li><b>$500 – Bronze</b></li>
   <b>Benefits</b>
   <ul>
   <li>Company logo featured on Seasides' Sponsors page</li>
   <li>LinkedIn and Twitter shoutout featuring your brand/Logo</li>
   <li>Sponsor recognition and acknowledgement at the venue</li>
   </ul><br>
-  <li><b>Custom Sponsorships</b></li><br>
-  Seasides encourages participation from a wide range of organisations. If you have an idea on a custom sponsorship, please let us know. We’ll do our best to facilitate a way for you to get involved.<br>
-  <li><b>Supporters</b></li><br>
+  <li><b>Custom Sponsorships</b></li>
+  Seasides encourages participation from a wide range of organisations. If you have an idea on a custom sponsorship, please let us know. We’ll do our best to facilitate a way for you to get involved.<br><br>
+  <li><b>Supporters</b></li>
   If you are an organisation which supports any aspect of information security and are willing to promote Seasides by tweeting or promoting it on social media, then we can add your logo as supporters on our supporters’ page. This is free of cost.
 
   Sponsoring enables you to engage in conversation, interact with attendees, and connect you with attendees of interest to you and your business. The organizers hope your participation will enable another great year for the Seasides.  
