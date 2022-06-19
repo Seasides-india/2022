@@ -13,7 +13,7 @@ draft: false
 
 **Seasides Sponsorship Kit** 
 
-![](/august.jpg)
+![Seasides Sponsorship Kit!](/become sponsors/august.JPG)
 
 **Proposal Kit**
 
