@@ -90,6 +90,8 @@ Join our trainers as they walk you through the development & vulnerabilities of 
 <b>Note:</b> The Village will run till the time Hardware is there.
 <br>
 ### Drone Hacking workshop sponsored by <b>SecureLayer7</b>
+<br>
+<b>Registration Link:</b> https://forms.gle/nxF5KzSSw2k5pDVe6
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>
