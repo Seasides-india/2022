@@ -1,7 +1,7 @@
 ---
 key: enciphers
 title: Enciphers
-category: bronze
+category: gold
 order: 101
 logo: /images/partners/logo-enciphers.png
 website: 'https://www.enciphers.com/'
