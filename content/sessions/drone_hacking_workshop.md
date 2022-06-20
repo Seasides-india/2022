@@ -12,7 +12,7 @@ speakers:
   - mohd_arif
   - sheeraj_ali
 
-videoId: sTkZF9wxGC8
+videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
