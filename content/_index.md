@@ -111,8 +111,8 @@ Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August brin
 {{% home-location
     image="/images/map.jpg"
     address="International Centre Goa"
-    latitude="15.4585529"
-    longitude="73.8184071" %}}
+    latitude="15.45832564060349"
+    longitude="73.82043356065078" %}}
 
 ## The venue
 
