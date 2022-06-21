@@ -12,7 +12,7 @@ why: >-
   success.  
 socials:
   - icon: facebook
-    link: 'https://www.facebook.com/enciphers/'
+    link: 'https://www.facebook.com/EnciphersLabs/'
     name: Enciphers
   - icon: twitter
     link: 'https://twitter.com/EnciphersLabs'
