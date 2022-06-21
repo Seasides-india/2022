@@ -12,7 +12,7 @@ why: >-
   success.  
 socials:
   - icon: facebook
-    link: 'https://www.facebook.com/AppSecEngineer//'
+    link: 'https://www.facebook.com/AppSecEngineer/'
     name: BugDiscover
   - icon: twitter
     link: 'https://twitter.com/AppSecEngineer'
