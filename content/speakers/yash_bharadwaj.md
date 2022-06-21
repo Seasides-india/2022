@@ -4,7 +4,7 @@ name: Yash Bharadwaj
 id: 03
 feature: true
 company: 'CyberWarFare Labs'
-city: 'Bhopal'
+city: 'Bengaluru'
 photoURL: /images/speakers/yash_bharadwaj.jpg
 socials:
   - icon: twitter

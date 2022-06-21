@@ -22,7 +22,9 @@ draft: false
 <b>Note:</b> The Village will run till the time Hardware is there.
 <br>
 ### Drone Hacking workshop sponsored by [SecureLayer7](/partners/silver/s7/)
-
+<br>
+<b>Registration Link:</b> https://forms.gle/nxF5KzSSw2k5pDVe6
+<br>
 Build your own hacking gadgets
 
 
@@ -91,10 +93,6 @@ Join our trainers as they walk you through the development & vulnerabilities of 
     <li>Understanding of security concepts around drones</li>
     <li>Approach towards exploiting drones</li>
     </ul>
-
-
-<br>
-<b>Registration Link:</b> https://forms.gle/nxF5KzSSw2k5pDVe6
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>

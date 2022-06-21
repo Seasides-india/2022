@@ -15,6 +15,10 @@ draft: false
 ---
 <h2>Android App Security Workshop</h2>
 
+<br>
+<b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
+<br>
+
 Android Pentesting Security Training is a One-Day Hands-On Training to be conudcted at OWASP Seasides. 
 
 The training is carefully crafted for students as well as professionals interested in making a head-start into Android Information Security domain. 
