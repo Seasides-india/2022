@@ -28,41 +28,46 @@ It covers the internals of Android Penetration testing, starting from the unders
 
 Following topics will be covered during the session:
 <ol>
-    <li>Understanding penetration testing lab environment</li>
-    <li>Reversing Android Application (APK)</li>
-    <li>Analyzing the application code and finding the vulnerabilities</li>
-    <li>Hands-on Static Analysis</li>
-    <li>Hands-on Dynamic Analysis</li>
-    <li>Decompiling application code to understand implementation logic</li>
-    <li>Recompiling Android app code to bypass various validation checks</li>
-    <li>Dynamic Instrumentation using tools like Frida</li>
-    <li>Cover OWASP Mobile Top 10 (inlcuding but not limited to following):</li>
+    <li>Introduction</li>
     <ul>
-      <li>Insecure Data Storage</li>
-      <li>Code Tampering</li>
-      <li>Insecure Authentication</li>
-      <li>Reverse Engineering</li>
-      <li>Hunting for hardcoded information, etc</li>
+      <li>Hacking, Ethical Hacking, OWASP</li>
+      <li>Reconnaissance, Information Gathering and why it is important</li>
+      <li>Burp Suite Tool and useful extenders</li>
+      <li>HTTP/HTTPS Basics</li>
+    </ul>
+    <li>Common Issues Detection and Exploitation and Remediation</li>
+    <ul>
+      <li>Authentication, Authorization</li>
+      <li>Session Management and JWT attacks</li>
+      <li>Cross Site Scripting (XSS)</li>
+      <li>SQL Injection</li>
+      <li>CORS</li>
+      <li>CSRF</li>
+      <li>Command Injection</li>
+      <li>Business Logic Vulnerabilities</li>
+      <li>API security</li>
+      <li>XXE & SSRF</li>
     </ul>
 </ol>
 
 **TARGET AUDIENCE**
 
-According to the feedback we have collected from our previous trainings, students who have mobile application development and application penetration testing experience enjoyed and benefited the most from the course.
+Anyone who is interested in Ethical Hacking and Pen testing
 
 **What will you learn!**
 <ul>
-<li>Android Hacking</li>
-<li>Android App Reversing</li>
-<li>Mobile Application Security</li>
-<li>Finding Vulnerabilities</li>
+<li>Where and how to start for Vulnerability Assessment</li>
+<li>Understanding of Web Application Vulnerabilities and its impactg</li>
+<li>Identify the possibility of vulnerability in the application</li>
+<li>Hands on experience with using the Burp Tool for performing the pen testing</li>
 </ul>
 
  
 
 <h2>REQUIREMENTS</h2>
 <ul>
-<li>Laptop with minimum 30 GB Hard Disk Space & 8 GB RAM with administrative privileges (Linux preferred) </li>
+<li>Laptop/System with minimum 10 GB Hard Disk Space & 4GB RAM with administrative
+privileges</li>
 <li>Updated Virtual-box installed</li>
 <li>2 Functional USB Ports</li>
 </ul>
