@@ -13,6 +13,8 @@ follow:
     url: https://www.linkedin.com/company/seasides/
   - name: youtube
     url: https://www.youtube.com/channel/UCG_AVhNAoFji_XFnfZnpasg
+  - name: instagram
+    url: https://www.instagram.com/seasides_conf/
 
 content:
   - title: footer_about
