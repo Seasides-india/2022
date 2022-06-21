@@ -8,14 +8,14 @@ tags:
   - _web
 level: beginner
 speakers:
-  - shivang_desai
+  - swathi_kudva
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Android App Security Workshop</h2>
+<h2>Web Application Security</h2>
 
-<b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
+<!-- <b>Registration Link:</b> -->
 <br>
 
 Android Pentesting Security Training is a One-Day Hands-On Training to be conducted at Seasides. 
