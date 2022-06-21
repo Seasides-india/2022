@@ -15,7 +15,7 @@ socials:
     link: 'https://www.facebook.com/enciphers/'
     name: Enciphers
   - icon: twitter
-    link: 'https://twitter.com/enciphers_'
+    link: 'https://twitter.com/EnciphersLabs'
     name: Enciphers
   - icon: linkedin
     link: 'https://www.linkedin.com/company/enciphers-official/'
