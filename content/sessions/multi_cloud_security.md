@@ -14,9 +14,9 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Android App Security Workshop</h2>
+<h2>MULTI-CLOUD SECURITY</h2>
 
-Enterprises across the globe are moving to the Cloud Technology. The technical understanding and enormous cost of rewriting infrastructureapplied applications to re-platform and work with the new cloud concept is a difficult task. The irregularities caused due to mis-understanding / deficit
+Enterprises across the globe are moving to the Cloud Technology. The technical understanding and enormous cost of rewriting infrastructure applied applications to re-platform and work with the new cloud concept is a difficult task. The irregularities caused due to mis-understanding / deficit
 knowledge of New Cloud Concepts offered by leading Cloud Service Providers like AWS, Microsoft Azure and GCP etc have introduced multiple loopholes easily identified and exploited by Threat Actors to abuse and exploit the organization infrastructure.
 
 Trainee will progress through advanced Real-World Cyber Attacks against various major Cloud Vendors like AWS, Microsoft Azure, GCP and Tactics, Techniques and Procedures (TTP's) simulation in the lab environment. 
