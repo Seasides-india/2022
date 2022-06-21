@@ -18,13 +18,7 @@ draft: false
 <!-- <b>Registration Link:</b> -->
 <br>
 
-Android Pentesting Security Training is a One-Day Hands-On Training to be conducted at Seasides. 
-
-The training is carefully crafted for students as well as professionals interested in making a head-start into Android Information Security domain. 
-
-This training involves real world scenarios that every security professional must be well versed with. It involves understanding Android Application Package (APK) and methodologies to properly analyze apps from zero. 
-
-It covers the internals of Android Penetration testing, starting from the understanding lab setup, real time testing of applications, overcoming hurdles while testing through concepts of dynamic instrumentation and covering OWASP Mobile Top 10 vulnerabilities.
+Web Application Security Training is a One-Day Training to be conducted at Seasides. 
 
 Following topics will be covered during the session:
 <ol>
