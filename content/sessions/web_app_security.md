@@ -69,9 +69,8 @@ According to the feedback we have collected from our previous trainings, student
 
 <h2>About Trainer :</h2>
 
-**Shivang Desai** is a senior security researcher at Microsoft. His work majorly focuses on enhancing security for mobile products and developing methodologies to mitigate further attacks on organisations.
-
-He has 9+ years of experience in the mobile security field. He is an avid blogger and his blogs have been referenced in various international media including Forbes, Fox News, The Mirror, The Register, etc. 
+**Swathi Kudva** is working as an Application Security Team Lead at Appsecco. Swathi is an Application
+Security enthusiast with a strong passion for Web security, Mobile Application Security and Modern API Security. Swathi has a total of 6 years’ experience in client facing security assessments and has worked on applications of different domains comprising of healthcare, banking, e-commerce etc, which has given her an insight into the critical vulnerabilities present in these applications. Swathi has identified several critical issues in various websites. 
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
