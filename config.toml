@@ -39,7 +39,7 @@ googleAnalytics = "UA-128895083-2"
 [menu]
 [[menu.main]]
     identifier = "jobs"
-    name = "Archieve"
+    name = "Archive"
     url = "https://www.owaspseasides.com/"
     weight = 200
     external = true
