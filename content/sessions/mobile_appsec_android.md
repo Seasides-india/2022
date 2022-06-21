@@ -15,7 +15,6 @@ draft: false
 ---
 <h2>Android App Security Workshop</h2>
 
-<br>
 <b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
 <br>
 
