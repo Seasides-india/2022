@@ -18,7 +18,7 @@ draft: false
 <b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
 <br>
 
-Android Pentesting Security Training is a One-Day Hands-On Training to be conducted at Seasides. 
+Android Pentesting Training is a One-Day Hands-On Training to be conducted at Seasides. 
 
 The training is carefully crafted for students as well as professionals interested in making a head-start into Android Information Security domain. 
 
