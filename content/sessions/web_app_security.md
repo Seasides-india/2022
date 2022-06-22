@@ -51,7 +51,7 @@ Anyone who is interested in Ethical Hacking and Pen testing
 **What will you learn!**
 <ul>
 <li>Where and how to start for Vulnerability Assessment</li>
-<li>Understanding of Web Application Vulnerabilities and its impactg</li>
+<li>Understanding of Web Application Vulnerabilities and its impact</li>
 <li>Identify the possibility of vulnerability in the application</li>
 <li>Hands on experience with using the Burp Tool for performing the pen testing</li>
 </ul>
