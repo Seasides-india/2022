@@ -27,7 +27,7 @@ Hacking requires attack tools like USBasp and USBuart.
  
 <h2>Content:</h2>
 <ol>
-    <li>Introduction to Damn Vulnerable IOT Device [DVID]</li>    
+    <li>Introduction to Damn Vulnerable IOT Device [DVID]</li>
     <li>Introduction to electronic components</li>
     <li>How to hack a DVID?</li>
     <li>Demonstration of attacks</li>
