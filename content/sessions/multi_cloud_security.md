@@ -14,8 +14,6 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>MULTI-CLOUD SECURITY</h2>
-
 <b>Registration Link:</b> https://forms.gle/SCQkZrq4SHMUupDGA
 <br>
 Enterprises across the globe are moving to the Cloud Technology. The technical understanding and enormous cost of rewriting infrastructure applied applications to re-platform and work with the new cloud concept is a difficult task. The irregularities caused due to mis-understanding / deficit
