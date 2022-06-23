@@ -5,7 +5,7 @@ id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
 tags:
-  - _web
+  - _languages
 level: beginner
 speakers:
   - swaroop_yermalkar
