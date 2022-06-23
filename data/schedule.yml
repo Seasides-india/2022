@@ -20,11 +20,11 @@
     - room: room3
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: multi_cloud_security
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: multi_cloud_security
     - room: room4
       slots:
         - slot: slot-1
