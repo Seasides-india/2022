@@ -36,7 +36,7 @@ Following topics will be covered during the session:
 
 <h2>About Trainer :</h2>
 
-Hi, this is Swaroop Yermalkar. I have over 10+ years of industry experience in information security. In the past, I have worked with Persistent System, Philips Healthcare, Lithium, and Traveloka in various roles as Security Engineer, Lead Product Security. I have a great interest in presenting my security research and I have spoken in 10+ international conferences including AppSec USA, AppSec Israel, Defcon 25 (AppSec Village)! I'm an author of 2 cyber security books, also holds OSCE, OSCP, etc
+Hi, this is **Swaroop Yermalkar**. I have over 10+ years of industry experience in information security. In the past, I have worked with Persistent System, Philips Healthcare, Lithium, and Traveloka in various roles as Security Engineer, Lead Product Security. I have a great interest in presenting my security research and I have spoken in 10+ international conferences including AppSec USA, AppSec Israel, Defcon 25 (AppSec Village)! I'm an author of 2 cyber security books, also holds OSCE, OSCP, etc
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
