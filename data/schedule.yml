@@ -28,11 +28,11 @@
     - room: room4
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: blockchain_security
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: blockchain_security
     - room: room5
       slots:
         - slot: slot-1
@@ -71,11 +71,11 @@
     - room: room3
       slots:
         - slot: slot-1
-          talk: blockchain_security
+          talk: To be updated
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: blockchain_security
+          talk: To be updated
     - room: room4
       slots:
         - slot: slot-1
