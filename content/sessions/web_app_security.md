@@ -13,8 +13,6 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Web Application Security</h2>
-
 <b>Registration Link:</b> https://forms.gle/x7tbBKrf3eoVJ7UJ9
 <br>
 
