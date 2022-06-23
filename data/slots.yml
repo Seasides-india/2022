@@ -1,6 +1,6 @@
 - key: slot-1
   start: '09:00'
-  duration: 240
+  duration: 60
   row:
     start: 1
     end: 7
@@ -14,7 +14,7 @@
 
 - key: slot-2
   start: '14:00'
-  duration: 240
+  duration: 60
   row:
     start: 10
     end: 14
