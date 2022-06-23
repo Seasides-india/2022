@@ -13,8 +13,6 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Android Pentesting Workshop</h2>
-
 <b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
 <br>
 
