@@ -3,21 +3,21 @@
   duration: 60
   row:
     start: 1
-    end: 7
+    end: 5
 
 - key: lunch
   start: '13:05'
   duration: 60
   row:
-    start: 7
-    end: 10
+    start: 5
+    end: 8
 
 - key: slot-2
   start: '14:00'
   duration: 60
   row:
-    start: 10
-    end: 14
+    start: 8
+    end: 12
 
 - key: slot-3
   start: '09:00'
