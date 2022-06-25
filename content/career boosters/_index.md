@@ -16,6 +16,18 @@ Seasides believes in helping the community realize its potential. We are organiz
 
 We are looking forward to engaging senior professionals working in the security industry for prominent companies to review your resumes and gauge your aptitude via an interview. Selected profiles will be referred to our sponsors for the event.
 
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+</table>
 <img src="/images/malkit_singh.jpg" alt="Malkit Singh" style="width:200px;"/>
 <img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/>
 
