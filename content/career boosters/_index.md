@@ -16,7 +16,8 @@ Seasides believes in helping the community realize its potential. We are organiz
 
 We are looking forward to engaging senior professionals working in the security industry for prominent companies to review your resumes and gauge your aptitude via an interview. Selected profiles will be referred to our sponsors for the event.
 
-![Malkit Singh!](/images/malkit_singh.jpg)
-![Pankaj Agarwal!](/images/pankaj_agarwal.jpg)
+<img src="/images/malkit_singh.jpg" alt="Malkit Singh" style="width:200px;"/>
+<!-- ![Malkit Singh!](/images/malkit_singh.jpg)
+![Pankaj Agarwal!](/images/pankaj_agarwal.jpg)  -->
 
 {{% /home-info %}}
