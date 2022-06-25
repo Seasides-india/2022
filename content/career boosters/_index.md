@@ -14,6 +14,7 @@ draft: false
 
 {{% home-info %}}
 
+If you want to get your resume reviewed and attend the interview then please fill this form and upload your resume.
 <b>Registration Link:</b> https://forms.gle/e5uJAQGPLTgZp4dK6
 
 Seasides believes in helping the community realize its potential. We are organizing a “Career Booster”, at Seasides 2022, to help you bring closer to your career goals.
@@ -22,16 +23,25 @@ We are looking forward to engaging senior professionals working in the security 
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Name</th>
+    <th>Compnay</th>
+    <th>Social Media</th>
+    <th></th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Malkit Singh</td>
+    <td>Security Engineering Manager @Meesho</td>
+    <td>https://www.linkedin.com/in/malkit-singh-oscp-crest-cpsa-crt-4005b916/</td>
+    <td><img src="/images/malkit_singh.jpg" alt="Malkit Singh" style="width:200px;"/></td>
+  </tr>
+  <tr>
+    <td>Pankaj Agarwal</td>
+    <td>Director @EY</td>
+    <td>https://www.linkedin.com/in/pankaj-agrawal-1635448b/</td>
+    <td><img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/></td>
   </tr>
 </table>
+
 <img src="/images/malkit_singh.jpg" alt="Malkit Singh" style="width:200px;"/>
 <img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/>
 
