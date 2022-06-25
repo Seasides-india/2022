@@ -14,7 +14,6 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Threat Hunting Workshop</h2>
 
 <h2>Topics will be covered</h2>
 <ol>
@@ -49,10 +48,9 @@ response.
 
 <h2>About Trainer :</h2>
 
-I (**Manindar Mohan**) am a Cyber Security Enthusiast and a Hacker with an Ethical mindset. Currently working as a cyber security engineer at Beagle Cyber Innovations. I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
+**Manindar Mohan** is a Cyber Security Enthusiast and a Hacker with an Ethical mindset. Currently working as a cyber security engineer at Beagle Cyber Innovations. I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
 
-
-<b>Rehaj Rahim</b> is a Director & Co-Founder at Beagle Security and Appfabs. OWASP Kerala Chapter Lead, Author of "Effective Python Penetration Testing" DevSecOps Evangelist, Developer of PenQ (Security Testing Browser Bundle). Project Lead OWASP SecureTea, Mozilla Firefox Add-ons Developer. You can reach out to him on Twitter @rejah_rehim
+**Nash N.Sulthan** is working at Beagle Security as a Senior Security Engineer and have worked with a number of enthusiastic community spaces with the goal of delving further into the latest technologies and empowering interest groups and students. 
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1y7lt1tdIFla1KMybD5AkihWCKbIenk_hxqH1kKHCrgo/">Register</a>
