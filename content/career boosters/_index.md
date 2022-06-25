@@ -23,12 +23,6 @@ We are looking forward to engaging senior professionals working in the security 
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Compnay</th>
-    <th>Social Media</th>
-    <th></th>
-  </tr>
-  <tr>
     <td>Malkit Singh</td>
     <td>Security Engineering Manager @Meesho</td>
     <td>https://www.linkedin.com/in/malkit-singh-oscp-crest-cpsa-crt-4005b916/</td>
@@ -41,11 +35,5 @@ We are looking forward to engaging senior professionals working in the security 
     <td><img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/></td>
   </tr>
 </table>
-
-<img src="/images/malkit_singh.jpg" alt="Malkit Singh" style="width:200px;"/>
-<img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/>
-
-<!-- ![Malkit Singh!](/images/malkit_singh.jpg)
-![Pankaj Agarwal!](/images/pankaj_agarwal.jpg)  -->
 
 {{% /home-info %}}
