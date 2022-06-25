@@ -51,6 +51,17 @@ response.
 
 **Nash N.Sulthan** is working at Beagle Security as a Senior Security Engineer and have worked with a number of enthusiastic community spaces with the goal of delving further into the latest technologies and empowering interest groups and students. 
 
+**Support Team**
+
+Gincy Mol A G
+gincy.m@beaglesecurity.com
+AI Security Specialist
+Beagle Security
+
+Febna V M
+febna.vm@beaglesecurity.com
+AI Security Specialist
+Beagle Security
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1y7lt1tdIFla1KMybD5AkihWCKbIenk_hxqH1kKHCrgo/">Register</a>
 -->
