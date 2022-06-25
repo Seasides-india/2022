@@ -79,11 +79,11 @@
     - room: room4
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: threat_hunting_workshop
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: threat_hunting_workshop
     - room: room5
       slots:
         - slot: slot-1
