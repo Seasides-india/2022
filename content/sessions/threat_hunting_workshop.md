@@ -45,7 +45,6 @@ draft: false
 Security analysts, incident managers, practitioners or anyone interested in learning about incident
 response.
 
-
 <h2>About Trainer :</h2>
 
 **Manindar Mohan** is a Cyber Security Enthusiast and a Hacker with an Ethical mindset. Currently working as a cyber security engineer at Beagle Cyber Innovations. I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
