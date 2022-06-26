@@ -100,6 +100,5 @@ Opensource Offensive Security Toolkit which helps Red Teamers / Penetration Test
 Active Directory infrastructure, stealth enterprise networks & Multi cloud attacks. Previously he has delivered hands-on red team trainings at BSIDES Ahmedabad, OWASP Seasides 20, Red & Blue Team Training at BSIDES Delhi, OWASP APPSEC Indonesia 20, CISO Platform 20 & YASCON 21. He has trained
 at various international conferences (Nullcon 21, BSIDES Connecticut). You can reach out to him on Twitter @flopyash 
 
-<!--
-<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
--->
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/SCQkZrq4SHMUupDGA">Register</a>
