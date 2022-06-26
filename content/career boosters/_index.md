@@ -1,5 +1,6 @@
 ---
 title: Career Booster
+type: team
 menu:
   main:
     weight: 50
@@ -44,6 +45,6 @@ We are looking forward to engaging senior professionals working in the security 
 
 {{% /home-info %}}
 
-{{< teams types="core=Core Team" >}}
+{{< team types="core=Core Team" >}}
 
 {{% /teams %}}
