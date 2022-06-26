@@ -45,6 +45,3 @@ We are looking forward to engaging senior professionals working in the security 
 
 {{% /home-info %}}
 
-{{< teams types="core=Core Team" >}}
-
-{{% /teams %}}
