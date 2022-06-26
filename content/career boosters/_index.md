@@ -21,6 +21,8 @@ Seasides believes in helping the community realize its potential. We are organiz
 
 We are looking forward to engaging senior professionals working in the security industry for prominent companies to review your resumes and gauge your aptitude via an interview. Selected profiles will be referred to our sponsors for the event.
 
+**Some of the industry experts mentioned below will be helping us with resume reviews and interview process**
+
 <table>
   <tr>
     <td>Malkit Singh</td>
