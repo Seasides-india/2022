@@ -14,8 +14,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<b>Registration Link:</b> https://forms.gle/xetdM8BYCgKPm8Yu8
-<br>
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/xetdM8BYCgKPm8Yu8">Register</a>
 
 <h2>Topics will be covered</h2>
 <ol>
