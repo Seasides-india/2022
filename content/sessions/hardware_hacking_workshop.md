@@ -17,8 +17,8 @@ videoId:
 draft: false
 ---
 
-<b>Registration Link:</b> https://forms.gle/4T3M5bRcN962NxGWA
-<br>
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/4T3M5bRcN962NxGWA">Register</a>
+
 The main objective is to provide to each interested person a vulnerable board to improve their skill in hardware hacking. The board core is composed of an Atmega328p and an OLED screen. For each vulnerability, a firmware could be flashed on the Atmega328p in order to offer a specific vulnerable environment.
 
 There are also ports for UART, Bluetooth, 2,4Ghz and Wifi. In every challenge, a specific extension board must be plugged to the main-board to solve it.
