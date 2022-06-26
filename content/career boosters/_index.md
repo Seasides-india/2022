@@ -27,6 +27,11 @@ We are looking forward to engaging senior professionals working in the security 
 
 **Some of the industry experts mentioned below will be helping us with resume reviews and interview process**
 
+
+{{% partners categories="diamond,gold,silver,bronze,special supporter,diversity partner,supporter" %}}
+
+{{% /partners %}}
+
 <table>
   <tr>
     <td>Malkit Singh</td>
