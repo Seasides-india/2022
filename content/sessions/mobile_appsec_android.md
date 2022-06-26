@@ -13,8 +13,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<b>Registration Link:</b> https://forms.gle/evMo4RCAi9aECqVs9
-<br>
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/evMo4RCAi9aECqVs9">Register</a>
 
 Android Pentesting Training is a One-Day Hands-On Training to be conducted at Seasides. 
 
