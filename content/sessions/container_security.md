@@ -1,6 +1,6 @@
 ---
 key: container_security
-title: Attackers and Defenders Strategies for Containers Security
+title: Attack and Defending strategies for Container Security
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
