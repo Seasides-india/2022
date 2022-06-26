@@ -13,7 +13,7 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<!-- <b>Registration Link:</b> https://forms.gle/SCQkZrq4SHMUupDGA -->
+<b>Registration Link:</b> https://forms.gle/tvhqmqQn2xRCXfM39
 <br>
 The goal of this training programme is to provide a fundamental understanding of container and kubernetes security through hands-on experience.
 
