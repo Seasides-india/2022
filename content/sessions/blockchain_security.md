@@ -13,7 +13,7 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<!-- <b>Registration Link:</b> https://forms.gle/x7tbBKrf3eoVJ7UJ9 -->
+<b>Registration Link:</b> https://forms.gle/bWiRtq9K5tc5X9rh6
 <br>
 
 Blockchain technology is growing rapidly and adaptation is getting higher day by day! However, hackers are also findings ways to break into it! In this webinar, you will start learning from scratch about
