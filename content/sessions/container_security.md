@@ -13,8 +13,9 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<b>Registration Link:</b> https://forms.gle/tvhqmqQn2xRCXfM39
-<br>
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/tvhqmqQn2xRCXfM39">Register</a>
+
 The goal of this training programme is to provide a fundamental understanding of container and kubernetes security through hands-on experience.
 
 The course is aimed not just at red/blue team members, but also at students and professionals who are just starting out in the container security.

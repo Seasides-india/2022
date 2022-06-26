@@ -1,6 +1,6 @@
 ---
 key: attacking_serverless_applications
-title: Web Application Security
+title: Attacking Serverless Applications
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
@@ -8,13 +8,12 @@ tags:
   - _web
 level: beginner
 speakers:
-  - swathi_kudva
+  - 
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: true
 ---
-<b>Registration Link:</b> https://forms.gle/x7tbBKrf3eoVJ7UJ9
-<br>
+
 
 Web Application Security Training is a One-Day Training to be conducted at Seasides. 
 
