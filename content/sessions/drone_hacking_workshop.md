@@ -17,14 +17,13 @@ videoId:
 draft: false
 ---
 
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/nxF5KzSSw2k5pDVe6">Register</a>
+
 <b>Note:</b> Limited DJI Tello development platform will be provided during the workshop
 <br>
 <b>Note:</b> The Village will run till the time Hardware is there.
 <br>
 ### Drone Hacking workshop sponsored by [SecureLayer7](/partners/silver/s7/)
-
-<b>Registration Link:</b> https://forms.gle/nxF5KzSSw2k5pDVe6
-<br>
 
 Build your own hacking gadgets
 
