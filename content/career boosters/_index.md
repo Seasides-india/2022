@@ -27,8 +27,7 @@ We are looking forward to engaging senior professionals working in the security 
 
 **Some of the industry experts mentioned below will be helping us with resume reviews and interview process**
 
-
-<table>
+<!-- <table>
   <tr>
     <td>Malkit Singh</td>
     <td>Security Engineering Manager @Meesho</td>
@@ -42,6 +41,9 @@ We are looking forward to engaging senior professionals working in the security 
     <td><img src="/images/pankaj_agarwal.jpg" alt="Pankaj Agarwal" style="width:200px;"/></td>
   </tr>
 </table>
-
+-->
 {{% /home-info %}}
 
+{{% partners categories="experts" %}}
+ 
+{{% /partners %}}
