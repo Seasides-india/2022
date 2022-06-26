@@ -27,7 +27,9 @@ We are looking forward to engaging senior professionals working in the security 
 **Some of the industry experts mentioned below will be helping us with resume reviews and interview process**
 
 
-{{< teams types="core=Core Team" >}}
+{{% partners categories="diamond" %}}
+
+{{% /partners %}}
 
 <table>
   <tr>
