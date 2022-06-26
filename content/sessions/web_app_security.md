@@ -13,8 +13,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<b>Registration Link:</b> https://forms.gle/x7tbBKrf3eoVJ7UJ9
-<br>
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/x7tbBKrf3eoVJ7UJ9">Register</a>
 
 Web Application Security Training is a One-Day Training to be conducted at Seasides. 
 
