@@ -15,7 +15,11 @@ draft: false
 {{% home-info %}}
 
 If you want to get your resume reviewed and attend the interview then please fill this form and upload your resume.
-<b>Registration Link:</b> https://forms.gle/e5uJAQGPLTgZp4dK6
+
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/e5uJAQGPLTgZp4dK6">Register</a>
+
+
 
 Seasides believes in helping the community realize its potential. We are organizing a “Career Booster”, at Seasides 2022, to help you bring closer to your career goals.
 
