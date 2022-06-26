@@ -11,7 +11,7 @@ speakers:
   - swaroop_yermalkar
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
-draft: false
+draft: true
 ---
 <b>Registration Link:</b> https://forms.gle/bWiRtq9K5tc5X9rh6
 <br>
