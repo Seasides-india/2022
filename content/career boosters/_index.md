@@ -27,8 +27,6 @@ We are looking forward to engaging senior professionals working in the security 
 **Some of the industry experts mentioned below will be helping us with resume reviews and interview process**
 
 
-{{< experts types="experts=Experts" >}}
-
 <table>
   <tr>
     <td>Malkit Singh</td>
