@@ -14,8 +14,9 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<b>Registration Link:</b> https://forms.gle/SCQkZrq4SHMUupDGA
-<br>
+
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/SCQkZrq4SHMUupDGA">Register</a>
+
 Enterprises across the globe are moving to the Cloud Technology. The technical understanding and enormous cost of rewriting infrastructure applied applications to re-platform and work with the new cloud concept is a difficult task. The irregularities caused due to mis-understanding / deficit
 knowledge of New Cloud Concepts offered by leading Cloud Service Providers like AWS, Microsoft Azure and GCP etc have introduced multiple loopholes easily identified and exploited by Threat Actors to abuse and exploit the organization infrastructure.
 
@@ -100,5 +101,3 @@ Opensource Offensive Security Toolkit which helps Red Teamers / Penetration Test
 Active Directory infrastructure, stealth enterprise networks & Multi cloud attacks. Previously he has delivered hands-on red team trainings at BSIDES Ahmedabad, OWASP Seasides 20, Red & Blue Team Training at BSIDES Delhi, OWASP APPSEC Indonesia 20, CISO Platform 20 & YASCON 21. He has trained
 at various international conferences (Nullcon 21, BSIDES Connecticut). You can reach out to him on Twitter @flopyash 
 
-
-<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/SCQkZrq4SHMUupDGA">Register</a>
