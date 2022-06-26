@@ -14,58 +14,57 @@ videoId:
 draft: true
 ---
 
+<!-- <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/bWiRtq9K5tc5X9rh6">Register</a> -->
 
-Web Application Security Training is a One-Day Training to be conducted at Seasides. 
+With the advent of serverless computing, the developers no longer have to worry about servers. The infrastructure management tasks like capacity provisioning, patching, etc. are handled by the cloud service provider allowing developers to focus only on writing the code.
+
+Serverless architecture is said to be more secure compared to traditional architecture. However, this does not mean that attacks cannot be performed on it. This course is focused on attack vectors on the Azure and AWS serverless application stack. 
+
+The class will be conducted on our cloud-based, state-of-the-art lab platform where attendees will be doing 15+ unique lab exercises in class! Over 90% of class time will be spent on these hands-on labs!
 
 Following topics will be covered during the session:
 <ol>
-    <li>Introduction</li>
-    <ul>
-      <li>Hacking, Ethical Hacking, OWASP</li>
-      <li>Reconnaissance, Information Gathering and why it is important</li>
-      <li>Burp Suite Tool and useful extenders</li>
-      <li>HTTP/HTTPS Basics</li>
-    </ul>
-    <li>Common Issues Detection and Exploitation and Remediation</li>
-    <ul>
-      <li>Authentication, Authorization</li>
-      <li>Session Management and JWT attacks</li>
-      <li>Cross Site Scripting (XSS)</li>
-      <li>SQL Injection</li>
-      <li>CORS</li>
-      <li>CSRF</li>
-      <li>Command Injection</li>
-      <li>Business Logic Vulnerabilities</li>
-      <li>API security</li>
-      <li>XXE & SSRF</li>
-    </ul>
+    <li>Key concepts of AWS and Azure</li>
+    <li>Serverless application stack </li>
+    <li>Attack vectors on serverless applications</li>
+    <li>Post Exploitation threatscape</li>
+    <li>Capture The Flag</li>
 </ol>
 
-**TARGET AUDIENCE**
+**Prerequisites**
+<ol>
+<li>Basic knowledge of computers and networking</li>
+<li>Familiarity with the Linux operating system</li>
+</ol>
 
-Anyone who is interested in Ethical Hacking and Pen testing
+**Target Audience**
+<ol>
+  <li>Cybersecurity Enthusiasts</li>
+  <li>Penetration testers</li>
+  <li>Cloud Application Developers</li>
+  <li>Security researchers, analysts, and students</li>
+</ol>
+
+**Students should bring**
+<ol>
+  <li>Laptop with at least 4 GB RAM</li>
+  <li>Latest Chrome/Firefox browser installed</li>
+  <li>WiFi adaptor to connect to WiFi</li>
+
 
 **What will you learn!**
 <ol>
-<li>Where and how to start for Vulnerability Assessment</li>
-<li>Understanding of Web Application Vulnerabilities and its impact</li>
-<li>Identify the possibility of vulnerability in the application</li>
-<li>Hands on experience with using the Burp Tool for performing the pen testing</li>
+<li>Understanding of  Azure/AWS serverless application stack</li>
+<li>Hands-on knowledge of attacking serverless applications</li>
+<li>Familiarity with post-exploitation attack vectors./li>
 </ol>
 
-**REQUIREMENTS**
-<ol>
-<li>Laptop/System with minimum 10 GB Hard Disk Space & 4GB RAM with administrative
-privileges</li>
-<li>Updated Virtual-box installed</li>
-<li>2 Functional USB Ports</li>
-</ol>
 
 **About Trainer :**
 
-**Swathi Kudva** is working as an Application Security Team Lead at Appsecco. Swathi is an Application
-Security enthusiast with a strong passion for Web security, Mobile Application Security and Modern API Security. Swathi has a total of 6 years’ experience in client facing security assessments and has worked on applications of different domains comprising of healthcare, banking, e-commerce etc, which has given her an insight into the critical vulnerabilities present in these applications. Swathi has identified several critical issues in various websites. 
+**Shantanu Kale** is a Cloud Developer at INE with strong roots in cloud, Linux and web application security. He has published his work in BlackHat Asia and have led teams for various national level hackathons, including the Smart India Hackathon, conducted by GoI. His areas of interest include Advanced Pentesting, Cloud security, Malware Analysis, Cryptography, Web Application Security and AD Security.
 
+**Rachana Umaraniya** is a Cloud Developer at INE and has two years of experience in software development. She specializes in building applications with Java frameworks and is well versed with databases. She has a Master's degree in Computer Science from NIT Hamirpur. Her area of interest includes cloud security, cryptography, web application and docker security.
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
 -->

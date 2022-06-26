@@ -16,7 +16,6 @@ draft: false
 
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/bWiRtq9K5tc5X9rh6">Register</a>
 
-
 Blockchain technology is growing rapidly and adaptation is getting higher day by day! However, hackers are also findings ways to break into it! In this webinar, you will start learning from scratch about
 What is blockchain, and why blockchain? Then we will go through how security controls are added to the blockchain with practical labs. 
 
