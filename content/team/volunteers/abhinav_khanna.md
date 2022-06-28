@@ -2,7 +2,7 @@
 title: Abhinav Khanna
 type: volunteers
 subtitle: ''
-photo: temp.jpg
+photo: abhinav_khanna.jpg
 socials:
   - link: 'https://twitter.com/khannaabhinav_/'
     name: Twitter

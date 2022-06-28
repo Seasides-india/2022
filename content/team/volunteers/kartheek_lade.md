@@ -2,7 +2,7 @@
 title: Kartheek Lade
 type: volunteers
 subtitle: ''
-photo: temp.jpg
+photo: kartheek_lade.jpg
 socials:
   - link: 'https://twitter.com/0xh3nry/'
     name: Twitter
