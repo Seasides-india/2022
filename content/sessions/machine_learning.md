@@ -15,7 +15,7 @@ videoId:
 draft: false
 ---
 
-<!-- <a align="center" class="btn primary" target="_blank" rel="noopener" href="">Register</a> -->
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/6uYsdU7wByBRgK566">Register</a>
 
 Machine learning for cyber security is one day hands on training session to be conducted at Seasides. This training is crafted for students and entry level industry professionals who are interested in machine learning to understand cybersecurity risks and tools/techniques that can be used to mitigate those risks.
 
