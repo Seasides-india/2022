@@ -36,11 +36,11 @@
     - room: room5
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: machine_learning
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: machine_learning
     - room: room6
       slots:
         - slot: slot-1
