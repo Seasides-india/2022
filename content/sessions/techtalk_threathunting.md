@@ -46,7 +46,7 @@ draft: false
   </ul>
 </ol>
 
-**Duration: ** 30 Minutes
+**Duration:** 30 Minutes
 
 **Who Should Attend ?**
 Security Analysts, Threat Hunters, Incident Managers, Practitioners interested in Threat Actor Profiling etc.
