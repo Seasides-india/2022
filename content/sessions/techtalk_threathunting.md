@@ -46,13 +46,6 @@ draft: false
   </ul>
 </ol>
 
-<h2>Prerequisites</h2>
-<ul>
-<li>Laptop with Administrative access & Virtualbox installed </li>
-<li>Total of 30 GB space & at least 8 GB of RAM</li>
-<li>It is assumed that the participants are already aware of the key terms and concepts related to cyber security.</li>
-</ul>
-
 **Duration: ** 30 Minutes
 
 **Who Should Attend ?**
