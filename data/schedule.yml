@@ -84,6 +84,8 @@
           talk: __lunch
         - slot: slot-2
           talk: threat_hunting_workshop
+        - slot: slot-8
+          talk: techtalk_threathunting          
     - room: room5
       slots:
         - slot: slot-1
