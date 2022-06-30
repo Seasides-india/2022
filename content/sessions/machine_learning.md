@@ -61,6 +61,7 @@ A laptop with Python installed (You can install it using Anaconda distribution -
 
 **Bhaskarjit Sarmah** is data scientist at BlackRock. His work mainly focusses on building machine leaning solutions for trading and risk management. His research interest includes explainable AI, network science, model uncertainty to name a few.
 
+Bhaskarjit Sarmah is one of the top instructer at Udacity and Coursera learning platform and program mentor at MIT Machine Learning course.
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>
 -->
