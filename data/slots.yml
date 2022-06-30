@@ -17,14 +17,14 @@
   duration: 60
   row:
     start: 8
-    end: 18
+    end: 16
 
 - key: slot-8
   start: '16:30'
   duration: 30
   row:
     start: 12
-    end: 18
+    end: 16
 
 #- key: slot-3
 #  start: '09:00'
