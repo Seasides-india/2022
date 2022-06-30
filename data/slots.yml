@@ -23,7 +23,7 @@
   start: '16:30'
   duration: 30
   row:
-    start: 11
+    start: 10
     end: 14
 
 #- key: slot-3
