@@ -14,4 +14,4 @@ socials:
 ---
 **Bhaskarjit Sarmah** is data scientist at BlackRock. His work mainly focusses on building machine leaning solutions for trading and risk management. His research interest includes explainable AI, network science, model uncertainty to name a few.
 
-Bhaskarjit Sarmah is one of the top instructer at Udacity and Coursera learning platform.
+Bhaskarjit Sarmah is one of the top instructer at Udacity and Coursera learning platform and program mentor at MIT Machine Learning course.
