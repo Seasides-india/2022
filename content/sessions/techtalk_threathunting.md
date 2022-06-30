@@ -49,7 +49,7 @@ draft: false
 **Duration:** 30 Minutes
 
 **Who Should Attend ?**
-Security Analysts, Threat Hunters, Incident Managers, Practitioners interested in Threat Actor Profiling etc.
+<br>Security Analysts, Threat Hunters, Incident Managers, Practitioners interested in Threat Actor Profiling etc.
 
 
 **About Trainer :**
