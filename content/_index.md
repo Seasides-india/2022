@@ -38,10 +38,10 @@ Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August brin
 {{< youtube-section link="sTkZF9wxGC8" title="Watch 2020 intro" class="" >}}
 
 {{% home-speakers %}}
-<!--{{< button-link label="Scholarship Opportunity"
-                url="https://docs.google.com/forms/d/1r7um0tZ0zE2ICOZ3EZT7GNpsaSBvRUIDGY-SxpXE2_s/edit"
+{{< button-link label="Scholarship Opportunity"
+                url="https://forms.gle/xSiLxzpd37Nj6mV26"
                 icon="cfp" >}}
-
+<!--
 {{< button-link label="Call for Ideas"
                 url="https://docs.google.com/forms/d/18RqwA-XLk7qWPaCsW0VTKz53Mvk4V76o9N48q4uds2k/edit?ts=5dbe6397"
                 icon="cfp" >}}                
