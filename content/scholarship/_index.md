@@ -6,7 +6,6 @@ draft: false
 
 <h1><b>Seasides Scholarship Program</b></h1>
 
-![Seasides Sponsorship Program!](/images/scholarship.jpg)
 <img src="/images/scholarship.jpg" alt="Seasides Sponsorship Program" width="500" height="600">
 **SEASIDES Infosec Conference 2022**
 
