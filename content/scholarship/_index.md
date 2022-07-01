@@ -11,4 +11,4 @@ draft: false
 
 We are excited to offer scholarships(5k INR each) to deserving candidates. You will have to attend the conference to collect the money. Please fill the form to apply.
 
-<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/xSiLxzpd37Nj6mV26">Register</a>
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/xSiLxzpd37Nj6mV26">Apply</a>
