@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en"
-title = "Seasides 2022"
+title = "Seasides conference"
 
 # Theme
 theme = "owaspseasides"
@@ -14,12 +14,12 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-128895083-2"
 
 [params]
-    title = "Seasides 2020"
+    title = "Seasides InfoSec Conference 2022"
     date = "2019-11-01"
-    description = "Welcome to the Annual SeaSides InfoSec conference."
+    description = "Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August bringing you the opportunity to get an insight into the cyber security world."
     images = ["/images/social-share.jpg"]
     email = "admin@seasides.net"
-    keywords = "security"
+    keywords = "security conference, seasides conference, infosec conference"
     copyright = "Made with Hugo & Devfest theme :heart:️"
     cfpUrl = ""
     subscriptionUrl = "https://seasides.net/sessions/"
