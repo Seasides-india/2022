@@ -12,4 +12,4 @@ socials:
     name: Chetan Kawley
 
 ---
-**Chetan Kawley** is wokring as an Associate Director, Threat Hunting Security Researcher.
+**Chetan Kawley** is Threat Hunting Security Researcher.
