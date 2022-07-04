@@ -54,8 +54,7 @@ draft: false
 
 **About Trainer :**
 
-**Chetan Kawley**
-Threat Hunting Security Researcher
+**Chetan Kawley** is a Threat Hunting Security Researcher
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1y7lt1tdIFla1KMybD5AkihWCKbIenk_hxqH1kKHCrgo/">Register</a>
 -->
