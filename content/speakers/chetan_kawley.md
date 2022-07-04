@@ -12,4 +12,4 @@ socials:
     name: Chetan Kawley
 
 ---
-**Chetan Kawley** is Threat Hunting Security Researcher.
+**Chetan Kawley** is a Threat Hunting Security Researcher.
