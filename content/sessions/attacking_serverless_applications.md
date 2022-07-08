@@ -11,7 +11,7 @@ speakers:
   - 
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
-draft: true
+draft: false
 ---
 
 <!-- <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/bWiRtq9K5tc5X9rh6">Register</a> -->
