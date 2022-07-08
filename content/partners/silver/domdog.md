@@ -11,14 +11,11 @@ why: >-
   We are quite pleased and proud to be able to play a concrete part in its
   success.  
 socials:
-  - icon: facebook
-    link: 'https://www.facebook.com/bugdiscover/'
-    name: DOMDOG
   - icon: twitter
-    link: 'https://twitter.com/bugdiscover_?s=03'
+    link: 'https://twitter.com/ironwaspsec'
     name: DOMDOG
   - icon: linkedin
-    link: 'https://www.linkedin.com/company/bugdiscover/'
+    link: 'https://www.linkedin.com/company/ironwasp-information-security-solutions-pvt-ltd/about/'
     name: DOMDOG
 ---
 
