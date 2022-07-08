@@ -8,7 +8,8 @@ tags:
   - _web
 level: beginner
 speakers:
-  - 
+  - shantanu_kale
+  - rachana_umaraniya
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
