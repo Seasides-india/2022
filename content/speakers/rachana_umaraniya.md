@@ -5,7 +5,7 @@ id: 03
 feature: true
 company: 'INE'
 city: 'India'
-photoURL: /images/speakers/rachana_umaraniya.jpg
+photoURL: /images/speakers/rachna_umaraniya.jpg
 socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/rachnaumaraniya/'
