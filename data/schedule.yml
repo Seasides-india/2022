@@ -89,11 +89,11 @@
     - room: room5
       slots:
         - slot: slot-1
-          talk: To Be Updated
+          talk: network_pentesting
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: attacking_serverless_applications
     - room: room6
       slots:
         - slot: slot-1
