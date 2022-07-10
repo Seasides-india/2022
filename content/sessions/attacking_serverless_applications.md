@@ -15,7 +15,7 @@ videoId:
 draft: false
 ---
 
-<!-- <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/bWiRtq9K5tc5X9rh6">Register</a> -->
+<a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/3gQaf4iCJJhaUfBY8">Register</a>
 
 With the advent of serverless computing, the developers no longer have to worry about servers. The infrastructure management tasks like capacity provisioning, patching, etc. are handled by the cloud service provider allowing developers to focus only on writing the code.
 
