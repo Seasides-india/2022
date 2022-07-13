@@ -7,9 +7,7 @@ logo: /images/partners/logo-appknox.png
 website: 'https://www.appknox.com/'
 lang: en
 why: >-
-  It appeared essential to us to bring our support to this « don’t miss » event.
-  We are quite pleased and proud to be able to play a concrete part in its
-  success.  
+  Through our deep compatibility assessments and partners at Seasides Conference, we will build bridges between prospective clients and teams. We will be able to bring detail oriented, organized, streamlined, efficient,in the event that and effective, allowing us to get you to the finish line and seeing ROI and results faster. Through this conference, we're looking forward to interacting with security professionals from around the world. We're proud to take part in an event that spreads awareness on the most pressing issues in the cybersecurity space detail-oriented 
 socials:
   - icon: facebook
     link: 'https://www.facebook.com/appknox/'
@@ -21,10 +19,4 @@ socials:
     link: 'https://www.linkedin.com/company/appknox-security/'
     name: Appknox
 ---
-At Appknox, we have been working with businesses ranging from early-stage companies to fortune 100 enterprises. All businesses strive and build a magnificent product to give their customers the best of experience and no one wants to do that at a stake of getting hacked. None of the products is underbuilt but fighting against hackers is difficult and something which all companies should be doing. Also, if you think you are too safe then we will highlight what someone has said earlier, there are 2 kinds of companies: one who has been hacked and others who do not know they have been hacked.
-
-We started Appknox with the sole purpose of making the mobile application ecosystem more secure and safe. When we started there was a gradual shift happening to the mobile application and it was becoming absolute for most of the internet usage. In fact, the majority of people got introduced to the web through mobile. We were sure that mobile will be the next big thing and whatever grows attracts hackers towards it.
-
-As we started building our product we realized speed is very important while building and releasing mobile applications. We automated complete Vulnerability Assessment and have a very focused team who are experts to perform Penetration Testing for mobile applications. From day one, we wanted to have the best (Expert) team working behind whatever we do and today we are proud of every single team member contributing in whatever or more they are onboard for.
-
-Appknox is a Value SaaS business. We are committed to building our business capital efficiently. See here for more of Value SaaS manifesto.
+Founded in 2014 by Harshit Agarwal and Subho Halder, Appknox is a leading mobile security testing platform. HQ'd in Singapore and Bangalore, Appknox today is one of the most powerful plug-and-play security platforms which enables developers, security researchers, and enterprises to build safe and secure mobile ecosystems using a system plus human approach. With its VAPT solutions (Vulnerability Assessment & Penetration Testing), Appknox has provided end-to-end mobile application security and testing strategies to over 500 businesses & Enterprises globally. Appknox has also enabled some of the top government agencies with its On-Premise deployments. A champion of Value SaaS, Appknox has been recognized by Gartner as one of the recommended mobile app security vendors in its 2021 Application security Hype Cycle report.
