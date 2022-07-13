@@ -1,7 +1,7 @@
 ---
 key: ine
 title: INE
-category: platinum
+category: diamond
 order: 104
 logo: /images/partners/logo-ine.png
 website: 'https://ine.com/'
