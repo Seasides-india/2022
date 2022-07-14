@@ -3,7 +3,7 @@ key: gatin_shah
 name: Gatin Shah
 id: 03
 feature: true
-company: 'Confidential'
+company: 'Redhuntlabs'
 city: 'India'
 photoURL: /images/speakers/gatin_shah.jpg
 socials:
