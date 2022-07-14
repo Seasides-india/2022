@@ -9,6 +9,7 @@ tags:
 level: beginner
 speakers:
   - shivang_desai
+  - gatin_shah
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
@@ -71,6 +72,9 @@ According to the feedback we have collected from our previous trainings, student
 
 He has 9+ years of experience in the mobile security field. He is an avid blogger and his blogs have been referenced in various international media including Forbes, Fox News, The Mirror, The Register, etc. 
 
+**Gatin Shah** is a senior security consultant at Redhuntlabs. His work focuses on enhancing security for Web, Mobile, and API application testing and mitigating attacks on organizations.
+
+I have 6+ years of experience in the VAPT security field. My Hobbies are playing cricket and exploring the world. 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
 -->
