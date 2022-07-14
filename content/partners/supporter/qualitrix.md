@@ -6,10 +6,6 @@ order: 111
 logo: /images/partners/logo-qualitrix.png
 website: 'https://qualitrix.com/'
 lang: en
-why: >-
-  It appeared essential to us to bring our support to this « don’t miss » event.
-  We are quite pleased and proud to be able to play a concrete part in its
-  success.  
 socials:
   - icon: twitter
     link: 'https://twitter.com/qualitrix360'
