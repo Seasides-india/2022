@@ -6,3 +6,7 @@
 .partners-group .partner {
     padding: 0.2rem;
 }
+.partners-group.partner-experts ul li{
+    flex-basis: 260px;
+    height: 155px;
+}
