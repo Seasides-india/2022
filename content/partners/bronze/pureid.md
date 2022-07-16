@@ -7,9 +7,7 @@ logo: /images/partners/logo-pureid.png
 website: 'https://www.pureid.io/'
 lang: en
 why: >-
-  It appeared essential to us to bring our support to this « don’t miss » event.
-  We are quite pleased and proud to be able to play a concrete part in its
-  success.  
+   
 socials:
   - icon: twitter
     link: 'https://twitter.com/PureIDLabs'
