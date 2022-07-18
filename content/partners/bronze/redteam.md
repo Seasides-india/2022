@@ -2,8 +2,8 @@
 key: redteam
 title: RedTeamHackerAcademy
 category: bronze
-order: 105
-logo: /images/partners/redteam-logo.png
+order: 104
+logo: /images/partners/redteam-logo-new.png
 website: 'https://redteamacademy.com/'
 lang: en
 why: >-
