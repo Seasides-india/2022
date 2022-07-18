@@ -28,4 +28,4 @@ Featuring content by Black Hat trainers, we teach AppSec using the 'Attack - Det
 
 With over 2000 learners and counting, we're one of the fastest-growing AppSec learning platforms in the world.
 
-here's AppSecEngineer Introduction video link - https://youtu.be/yeF49-EjdaY
+Watch this video to learn more: https://youtu.be/yeF49-EjdaY
