@@ -48,7 +48,7 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated
+          talk: emulating_real_world_vulnerabilities_for_fun_and_profit
         - slot: slot-8
           talk: tool_demonstration_of_canalyse          
 - day: '2022-08-20'
