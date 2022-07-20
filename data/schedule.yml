@@ -48,7 +48,9 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: To Be Updated         
+          talk: To Be Updated
+        - slot: slot-8
+          talk: tool_demonstration_of_canalyse          
 - day: '2022-08-20'
   start: '09:00'
   rooms:

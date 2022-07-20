@@ -24,7 +24,7 @@ CANalyse is a software tool built to analyse the log files in a creative powerfu
 
 CANalyse uses python-can library to sniff vehicle network packets and analyse the gathered information and uses the analysed information to command & control certain functions of the vehicle. CANalyse can be installed inside a raspberry-PI, to exploit the vehicle through a telegram bot by recording and analysing the vehicle network.
 
-**Duration**: TBD
+**Duration**: 1 Hour
 
 **Who should attend ?**
 Anyone who is intrested in car hacking.
