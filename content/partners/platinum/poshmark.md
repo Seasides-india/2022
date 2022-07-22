@@ -13,7 +13,7 @@ socials:
     link: 'https://www.facebook.com/Poshmark/'
     name: Poshmark
   - icon: twitter
-    link: 'https://twitter.com/Poshmarkapp
+    link: 'https://twitter.com/Poshmarkapp'
     name: Poshmark
 ---
 Poshmark is a leading social marketplace for new and secondhand style for women, men, kids, pets, home, and more.
