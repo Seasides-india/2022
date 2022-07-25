@@ -3,7 +3,7 @@ key: nii
 title: Network Intelligence
 category: gold
 order: 104
-logo: /images/partners/logo-nii.png
+logo: /images/partners/logo-network_intelligence.png
 website: ''
 lang: en
 why: >-
