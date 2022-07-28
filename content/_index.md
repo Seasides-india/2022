@@ -65,7 +65,7 @@ We are excited to offer scholarships(5k INR each) to deserving candidates. You w
 
 <!-- ... --> 
 
-{{% partners categories="platinum,gold,silver,bronze,special supporter,diversity partner,supporter" %}}
+{{% partners categories="diamond,platinum,gold,silver,bronze,special supporter,diversity partner,supporter" %}}
 ## Partners
 {{% /partners %}}
 
