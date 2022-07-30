@@ -34,14 +34,14 @@ To stay ahead of the security curve, you must constantly be learning. Since mali
 Seaside InfoSec Conference 2022 will be held on the 19th and 20th of August bringing you the opportunity to get an insight into the cyber security world. Having a community-driven framework, we aim to provide free-of-charge premium workshops and provide a feel of international conferences like Blackhat/Defcon. We make sure to offer a chance to individuals to learn and connect with industry experts from around the globe.<br/>
 {{% /home-info %}}
 
-<center><img src="/images/scholarship.jpg" alt="Seasides Sponsorship Program" width="400" height="400">
+<!-- <center><img src="/images/scholarship.jpg" alt="Seasides Sponsorship Program" width="400" height="400">
 
 We are excited to offer scholarships(5k INR each) to deserving candidates. You will have to attend the conference to collect the money. Please fill the form to apply.
 
 {{< button-link label="Scholarship Opportunity"
                 url="https://forms.gle/xSiLxzpd37Nj6mV26"
                 icon="cfp" >}}
-</center>
+</center> -->
 
 {{< youtube-section link="sTkZF9wxGC8" title="Watch 2020 intro" class="" >}}
 
