@@ -48,6 +48,7 @@ BugDiscover’s ZeroDiscover Program is an initiative to make India a Cyber Safe
   <li>Recognition for the efforts of researchers on BugDiscover’s Hall of Fame</li>
 </ul>
 
+
 **Bounties**: (Bounties will be issued only @Seasides Venue on 20th August 2022)
 
 <ul>
