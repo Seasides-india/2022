@@ -32,6 +32,8 @@ BugDiscover’s ZeroDiscover Program is an initiative to make India a Cyber Safe
 
 **How ZeroDiscover Works**: 
 
+<center><img src="/images/bugd.jpg" alt="How ZeroDiscover Works" width="400" height="400"></center>
+
 <ul>
 <li>Security Researcher responsibly identifies Vulnerabilities on publicly available applications/platforms/websites without exploiting or terminating the existing working model.</li>
 <li>Once the vulnerabilities are identified, security researcher can use ZeroDiscover Vulnerability Submission Portal of BugDiscover to submit the vulnerabilities.</li>
