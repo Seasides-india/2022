@@ -8,7 +8,7 @@ tags:
   - _web
 level: beginner
 speakers:
-  - 
+  - bugd_village
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
