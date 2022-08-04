@@ -30,6 +30,10 @@ Agenda of this BugBounty Event (BugD Village) is to promote the energetic Indian
 
 BugDiscover’s ZeroDiscover Program is an initiative to make India a Cyber Safe Country. ZeroDiscover allows organizations which are not practicing responsible disclosure policy to receive sensitive vulnerabilities or threats identified by our security researchers in a secured manner. Sometimes security researchers come across threats or vulnerabilities of application that are not listed on BugDiscover or any other such Bug Bounty Platforms are kept unaddressed to the concerned organizations due to legal policies of the organization. At such occasions, BugDiscover a trustworthy Platform swoops in, helping the researchers in doing a responsible vulnerability disclosure & BugDiscover takes up a pro bono work in escalating the reports confidentially to organizations. ZeroDiscover program awards Certificate of Responsible Disclosure to the researchers for valid submissions.
 
+**Note**:
+This event is organized and coordinated by bugdiscover. Seasides team has no involvement what so ever. If you choose to participate then it will be agreement between you and bugdiscover. Seasides will not be considered liable in anyway.
+
+<!--
 **How ZeroDiscover Works**: 
 
 <center><img src="/images/bugd.jpg" alt="How ZeroDiscover Works" width="400" height="400"></center>
@@ -104,6 +108,7 @@ By making any submission to ZeroDiscover program, researchers should agree to th
 </ul>
 
 **For any queries Reach Us over email support@bugdiscover.com**
+-->
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
