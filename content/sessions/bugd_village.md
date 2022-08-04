@@ -11,7 +11,7 @@ speakers:
   - bugdvillage
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
-draft: false
+draft: true
 ---
 
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSf4IWpsaYC63UYvkZpPxJOZm6xpVOoZYekm-Lf-mN5n0KQ2bQ/viewform">Register</a>
