@@ -4,7 +4,7 @@ title: Cobalt
 category: gold
 order: 104
 logo: /images/partners/logo-cobalt.png
-website: ''
+website: 'https://www.cobalt.io/'
 lang: en
 why: >-
     
