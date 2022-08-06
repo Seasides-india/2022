@@ -4,7 +4,7 @@ title: Bugcrowd
 category: silver
 order: 102
 logo: /images/partners/logo-bugcrowd.png
-website: 
+website: 'https://www.bugcrowd.com/'
 lang: en
 why: >-
    
