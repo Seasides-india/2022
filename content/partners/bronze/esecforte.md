@@ -4,7 +4,7 @@ title: eSec Forte Technologies
 category: bronze
 order: 102
 logo: /images/partners/logo-esecforte.png
-website: 
+website: 'https://www.esecforte.com/'
 lang: en
 why: >-
     
