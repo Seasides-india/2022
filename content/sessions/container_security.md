@@ -9,6 +9,7 @@ tags:
 level: beginner
 speakers:
   - sartaj_ahmed
+  - karthik_palnati
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
@@ -52,6 +53,29 @@ Following topics will be covered during the session:
     </ul>
     <li>Attacking defending Using the MITRE ATT&CK techniques for Containers</li>
     <li>Mind maps for Container security</li>
+    <li>Introduction to Kubernetes</li>
+    <ul>
+      <li>Monolithic vs Microservices</li>
+      <li>DevOps Stages</li>
+      <li>Kubernetes 101</li>
+    </ul>
+    <li> Kubernetes Basics</li>
+    <ul>
+        <li>Architecture Overview</li>
+        <li>Components</li>
+        <li>YAML Configuration</li>
+    </ul>
+    <li>Kubernetes Configuration</li>
+    <li>Networking Security</li>
+    <li>Storage Security</li>
+    <li>Setting Up Lab</li>
+    <li>MiniKube</li>
+    <li>Kubectl</li>
+    <li>Application Deployment</li>
+    <li>Hacking k8s</li>
+    <li>K8s Security Best Practices</li>
+
+
 </ol>
 
 **Pre-Requisites**
@@ -77,6 +101,10 @@ Following topics will be covered during the session:
 
 **Sartaj(@Sartaj2103)** is a Microsoft Certified Trainer and Azure Security Specialist with 10+ years of experience as a developer, pentester, CTF player, and security adviser. He is really enthusiastic about information security. He has been associated with Nullcon, Defcon Blue Team Village, Winja.
 Sartaj has also given sessions at the OWASP Hyderabad Chapter and the Null Hyderabad Chapter. 
+
+**Karthik Palnati** has ten years of working experience in Red Team, Vulnerability Assessment and internal and external Penetration Testing assignments. 
+He holds security certifications that include CRTP and OSCP. He has formerly worked with Defence Research & Development Organisation, contributing to the security of the Ministry of Defence's web applications and assisting in cyber deterrence. 
+NCIIPC recognized my efforts and dedication to reporting security flaws in various government websites. He has also participated in many Capture the flag and Bug Bounty programs.
 
 <!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1l0JWU9j-t_i0xJDF6NK7SPQoevcGx_ijkmsMoyvmxPk">Register</a>
