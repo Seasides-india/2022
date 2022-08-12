@@ -3,7 +3,7 @@ key: sartaj_ahmed
 name: Sartaj Ahmed
 id: 03
 feature: true
-company: ''
+company: 'HighRadius'
 city: 'Hyderabad'
 photoURL: /images/speakers/sartaj_ahmed.jpg
 socials:
