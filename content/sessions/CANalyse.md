@@ -1,5 +1,5 @@
 ---
-key: tool_demonstration_of_canalyse
+key: tool_demonstration_of_canalyse_main
 title: Tool Demonstration of CANalyse
 id: PmoMEVHO3imfUIMXsPai1
 language: English
