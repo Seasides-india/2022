@@ -30,6 +30,8 @@
         - slot: slot-1
           talk: tool_demonstration_of_canalyse_main
         - slot: lunch
+        - slot: slot-8
+          talk: techtalk_threathunting 
     - room: room5
       slots:
         - slot: slot-1
@@ -82,9 +84,7 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: threat_hunting_workshop
-        - slot: slot-8
-          talk: techtalk_threathunting          
+          talk: threat_hunting_workshop         
     - room: room5
       slots:
         - slot: slot-1
