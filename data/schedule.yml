@@ -28,11 +28,8 @@
     - room: room4
       slots:
         - slot: slot-1
-          talk: blockchain_security
+          talk: tool_demonstration_of_canalyse_main
         - slot: lunch
-          talk: __lunch
-        - slot: slot-2
-          talk: blockchain_security
     - room: room5
       slots:
         - slot: slot-1
