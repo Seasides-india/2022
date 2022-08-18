@@ -30,8 +30,12 @@
         - slot: slot-1
           talk: tool_demonstration_of_canalyse_main
         - slot: lunch
-        - slot: slot-8
-          talk: techtalk_threathunting 
+        - slot: slot-5
+          talk: techtalk_threathunting
+        - slot: slot-3
+          talk: unicorn_private_database
+        - slot: slot-4
+          talk: blockchain_security
     - room: room5
       slots:
         - slot: slot-1
