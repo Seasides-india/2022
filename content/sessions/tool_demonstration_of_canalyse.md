@@ -11,7 +11,7 @@ speakers:
   - kartheek_lade
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
-draft: false
+draft: true
 ---
 
 <!-- <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://forms.gle/x7tbBKrf3eoVJ7UJ9">Register</a>  -->
